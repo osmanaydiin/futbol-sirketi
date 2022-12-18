@@ -16,12 +16,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\bilal\OneDrive\Masaüstü\Osman\deneme2\deneme2
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/bilal/OneDrive/Masaüstü/Osman/deneme2/deneme2/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[C:/Users/bilal/OneDrive/Masaüstü/Osman/deneme2/deneme2/Views/Kategori/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bilal/OneDrive/Masaüstü/Osman/deneme2/deneme2/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/bilal/OneDrive/Masaüstü/Osman/deneme2/deneme2/Views/Kitap/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0YXBcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/bilal/OneDrive/Masaüstü/Osman/deneme2/deneme2/Views/Shared/Error.cshtml]
@@ -30,6 +30,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/bilal/OneDrive/Masaüstü/Osman/deneme2/deneme2/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bilal/OneDrive/Masaüstü/Osman/deneme2/deneme2/Views/Tercuman/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVyY3VtYW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bilal/OneDrive/Masaüstü/Osman/deneme2/deneme2/Views/Yazar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWF6YXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bilal/OneDrive/Masaüstü/Osman/deneme2/deneme2/Views/Yorum/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW9ydW1cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/bilal/OneDrive/Masaüstü/Osman/deneme2/deneme2/Views/_ViewImports.cshtml]

@@ -1,0 +1,34 @@
+﻿@model List<deneme2.Models.Kategori>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h2>Kategoriler</h2>
+<br />
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Id</th>
+            <th scope="col">Tur</th>
+            <th scope="col"></th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var m in Model)
+        {
+            <tr>
+                <th scope="row"></th>
+                <td>@m.KtgId</td>
+                <td>@m.KtgTuru</td>
+                <td> <a href=""><button class="btn btn-sm btn-info">Guncelle</button> </td>
+                <td> <a href=""><button class="btn btn-sm btn-danger">Sil</button> </a> </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href=""><button class="btn btn-sm btn-outline-success ">Kategori Ekle</button> </a>

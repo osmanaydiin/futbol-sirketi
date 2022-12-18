@@ -40,6 +40,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "FizzCode.DbTools.DataDefinition.MsSql": {
+              "target": "Package",
+              "version": "[2.0.25.6662, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.1, )"

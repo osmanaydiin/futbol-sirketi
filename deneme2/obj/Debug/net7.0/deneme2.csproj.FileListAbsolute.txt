@@ -73,3 +73,17 @@ C:\Users\bilal\OneDrive\Masaüstü\Osman\deneme2\deneme2\obj\Debug\net7.0\refint
 C:\Users\bilal\OneDrive\Masaüstü\Osman\deneme2\deneme2\obj\Debug\net7.0\deneme2.pdb
 C:\Users\bilal\OneDrive\Masaüstü\Osman\deneme2\deneme2\obj\Debug\net7.0\deneme2.genruntimeconfig.cache
 C:\Users\bilal\OneDrive\Masaüstü\Osman\deneme2\deneme2\obj\Debug\net7.0\ref\deneme2.dll
+C:\Users\bilal\OneDrive\Masaüstü\Osman\deneme2\deneme2\bin\Debug\net7.0\EPPlus.dll
+C:\Users\bilal\OneDrive\Masaüstü\Osman\deneme2\deneme2\bin\Debug\net7.0\FizzCode.DbTools.Common.dll
+C:\Users\bilal\OneDrive\Masaüstü\Osman\deneme2\deneme2\bin\Debug\net7.0\FizzCode.DbTools.Configuration.dll
+C:\Users\bilal\OneDrive\Masaüstü\Osman\deneme2\deneme2\bin\Debug\net7.0\FizzCode.DbTools.DataDefinition.dll
+C:\Users\bilal\OneDrive\Masaüstü\Osman\deneme2\deneme2\bin\Debug\net7.0\FizzCode.DbTools.DataDefinition.MsSql.dll
+C:\Users\bilal\OneDrive\Masaüstü\Osman\deneme2\deneme2\bin\Debug\net7.0\FizzCode.DbTools.DataDefinition.SqlExecuter.dll
+C:\Users\bilal\OneDrive\Masaüstü\Osman\deneme2\deneme2\bin\Debug\net7.0\FizzCode.DbTools.DataDefinition.SqGenerator.dll
+C:\Users\bilal\OneDrive\Masaüstü\Osman\deneme2\deneme2\bin\Debug\net7.0\FizzCode.DbTools.DataDefinitionDocumenter.dll
+C:\Users\bilal\OneDrive\Masaüstü\Osman\deneme2\deneme2\bin\Debug\net7.0\FizzCode.DbTools.DataDefinitionReader.dll
+C:\Users\bilal\OneDrive\Masaüstü\Osman\deneme2\deneme2\bin\Debug\net7.0\FizzCode.DbTools.QueryBuilder.Interface.dll
+C:\Users\bilal\OneDrive\Masaüstü\Osman\deneme2\deneme2\bin\Debug\net7.0\FizzCode.DbTools.Tabular.dll
+C:\Users\bilal\OneDrive\Masaüstü\Osman\deneme2\deneme2\bin\Debug\net7.0\FizzCode.LightWeight.AdoNet.DbConnection.dll
+C:\Users\bilal\OneDrive\Masaüstü\Osman\deneme2\deneme2\bin\Debug\net7.0\FizzCode.LightWeight.Configuration.dll
+C:\Users\bilal\OneDrive\Masaüstü\Osman\deneme2\deneme2\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll

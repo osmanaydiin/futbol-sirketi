@@ -1,15 +1,15 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Deneme2.Models
+namespace deneme2.Models
 {
     public class Yazar
     {
         [Key]
         public int YazarId { get; set; }
-        public string YazarAdi {get;set; }
-        public string YazarSoyadi { get;}
+        public string YazarAdi { get; set; }
+        public string YazarSoyadi { get; set; }
         //belki hayatini anlatabilirim.
         //yazara ait yorumlar olabilir.
-        List<Kitap> Kitaplar { get; set; } 
+        public List<Kitap_Yazar> Kitap_Yazarlar { get; set; }
     }
 }

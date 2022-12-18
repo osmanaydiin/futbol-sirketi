@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Deneme2.Models
+namespace deneme2.Models
 {
     public class Kitap
     {
@@ -10,8 +11,15 @@ namespace Deneme2.Models
         public string KitapAdi { get; set; }
         public string KitapResimUrl { get; set; }
         public string KitapHakkinda { get; set; }
-        List<Yazar> Yazarlar { get; set; }
-        List<Tercuman> Tercumanlar { get; set; }
-        List<Yorum> Yorumlar { get; set; }
+
+
+        public int KategoriId { get; set; }
+        [ForeignKey("KategoriId")]
+        public Kategori Kategori { get; set; }
+
+
+        public List<Kitap_Yazar> Kitap_Yazarlar { get; set; }
+        public List<Kitap_Tercuman> Kitap_Tercumanlar { get; set; }
+        public List<Yorum>? Yorumlar { get; set; }
     }
 }
