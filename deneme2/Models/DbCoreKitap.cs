@@ -27,6 +27,7 @@ namespace deneme2.Models
             modelBuilder.Entity<Kitap_Tercuman>().HasOne(k => k.Kitap).WithMany(ky => ky.Kitap_Tercumanlar).HasForeignKey(k => k.KitapId);
             modelBuilder.Entity<Kitap_Tercuman>().HasOne(k => k.Tercuman).WithMany(ky => ky.Kitap_Tercumanlar).HasForeignKey(k => k.TercumanId);
 
+            base.OnModelCreating(modelBuilder);
         }
 
         public DbSet<Kategori> Kategoriler { get; set; }

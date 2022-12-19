@@ -1,4 +1,5 @@
 ﻿using deneme2.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace deneme2.Repositories
 {
@@ -28,6 +29,10 @@ namespace deneme2.Repositories
         public void TGet(int id)
         {
             c.Set<T>().Find(id);
+        }
+        public List<T> TList(string p)
+        {
+            return c.Set<T>().Include(p).ToList();
         }
     }
 }

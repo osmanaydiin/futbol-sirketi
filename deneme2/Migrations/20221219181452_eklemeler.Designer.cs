@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using deneme2.Models;
 
@@ -10,9 +11,11 @@ using deneme2.Models;
 namespace deneme2.Migrations
 {
     [DbContext(typeof(DbCoreKitap))]
-    partial class DbCoreKitapModelSnapshot : ModelSnapshot
+    [Migration("20221219181452_eklemeler")]
+    partial class eklemeler
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -46,6 +49,9 @@ namespace deneme2.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("KitapId"));
 
+                    b.Property<int>("KategoriId")
+                        .HasColumnType("int");
+
                     b.Property<string>("KitapAdi")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -61,12 +67,9 @@ namespace deneme2.Migrations
                     b.Property<int>("KitapSayfa")
                         .HasColumnType("int");
 
-                    b.Property<int>("KtgId")
-                        .HasColumnType("int");
-
                     b.HasKey("KitapId");
 
-                    b.HasIndex("KtgId");
+                    b.HasIndex("KategoriId");
 
                     b.ToTable("Kitaplar");
                 });
@@ -207,7 +210,7 @@ namespace deneme2.Migrations
                 {
                     b.HasOne("deneme2.Models.Kategori", "Kategori")
                         .WithMany("Kitaplar")
-                        .HasForeignKey("KtgId")
+                        .HasForeignKey("KategoriId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 

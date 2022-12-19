@@ -1,0 +1,29 @@
+﻿@model deneme2.Models.Kitap;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h2>kitap ekle</h2>
+<br />
+
+@using (Html.BeginForm("KitapEkle", "Kitap", FormMethod.Post))
+{
+    @Html.LabelFor(x=>x.KitapAdi);
+    @Html.TextBoxFor(x=>x.KitapAdi , new {@class="form-control"});
+    <br />
+    @Html.LabelFor(x=>x.KitapSayfa);
+    @Html.TextBoxFor(x=>x.KitapSayfa, new {@class="form-control"});
+    <br />
+    @Html.LabelFor(x=>x.KitapResimUrl);
+    @Html.TextBoxFor(x=>x.KitapResimUrl, new {@class="form-control"});
+    <br />
+    @Html.LabelFor(x=>x.KitapHakkinda);
+    @Html.TextAreaFor(x=>x.KitapHakkinda, new {@class="form-control"});
+    <br />
+    @Html.Label("Kategori Id");
+    @Html.DropDownListFor(x=>x.KtgId,(List<SelectListItem>)ViewBag.kt1, new {@class="form-control"});
+    <br />
+    <button>ekle</button>
+}

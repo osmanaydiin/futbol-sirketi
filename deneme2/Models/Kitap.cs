@@ -13,13 +13,13 @@ namespace deneme2.Models
         public string KitapHakkinda { get; set; }
 
 
-        public int KategoriId { get; set; }
-        [ForeignKey("KategoriId")]
+        public int KtgId { get; set; }
+        [ForeignKey("KtgId")]
         public Kategori Kategori { get; set; }
 
-
+       
         public List<Kitap_Yazar> Kitap_Yazarlar { get; set; }
-        public List<Kitap_Tercuman> Kitap_Tercumanlar { get; set; }
+        public List<Kitap_Tercuman>? Kitap_Tercumanlar { get; set; }
         public List<Yorum>? Yorumlar { get; set; }
     }
 }
