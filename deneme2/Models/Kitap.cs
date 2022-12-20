@@ -11,6 +11,7 @@ namespace deneme2.Models
         public string KitapAdi { get; set; }
         public string KitapResimUrl { get; set; }
         public string KitapHakkinda { get; set; }
+        public bool KitapDurum { get; set; }
 
 
         public int KtgId { get; set; }

@@ -19,6 +19,7 @@
             <th scope="col">Id</th>
             <th scope="col">Adı</th>
             <th scope="col">KategoriId</th>
+            <th scope="col">Durum</th>
           @*<th scope="col">YazarId</th>
             <th scope="col">TercumanId</th>
             <th scope="col">Yorumlar</th>*@
@@ -35,7 +36,8 @@
                 <td scope="col">@k.KitapId</td>
                 <td scope="col">@k.KitapAdi</td>
                 <td scope="col">@k.Kategori.KtgId</td>
-                <td scope="col"><a href=""><button class="btn btn-sm btn-info">Guncelle</button> </td>
+                <td>@k.KitapDurum</td>
+                <td scope="col"><a href="/Kitap/KitapGet/@k.KitapId"><button class="btn btn-sm btn-info">Guncelle</button> </td>
                 <td scope="col"><a href=""><button class="btn btn-sm btn-danger">Detay</button> </a> </td>
                 <td scope="col"><a href="/Kitap/KitapSil/@k.KitapId"><button class="btn btn-sm btn-danger">Sil</button> </a> </td>
             </tr>

@@ -7,11 +7,13 @@
 <h2>kategori ekle</h2>
 <br />
 
-@using(Html.BeginForm("KategoriEkle","Kategori",FormMethod.Post)){
+@using (Html.BeginForm("KategoriGuncelle", "Kategori", FormMethod.Post))
+{
+    @Html.LabelFor(x=>x.KtgId);
+    @Html.TextBoxFor(x=>x.KtgId , new {@class="form-control"});
     @Html.LabelFor(x=>x.KtgTuru);
     @Html.TextBoxFor(x=>x.KtgTuru , new {@class="form-control"});
     @Html.ValidationMessageFor(x=> x.KtgTuru,"",new {@style="color:red;"})
     <br />
-    <button>ekle</button>
+    <button>güncelle</button>
 }
-

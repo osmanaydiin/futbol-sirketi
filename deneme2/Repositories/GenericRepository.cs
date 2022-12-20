@@ -26,9 +26,9 @@ namespace deneme2.Repositories
         {
             return c.Set<T>().ToList();
         }
-        public void TGet(int id)
+        public T TGet(int id)
         {
-            c.Set<T>().Find(id);
+            return c.Set<T>().Find(id);
         }
         public List<T> TList(string p)
         {

@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using deneme2.Models;
 
@@ -10,9 +11,11 @@ using deneme2.Models;
 namespace deneme2.Migrations
 {
     [DbContext(typeof(DbCoreKitap))]
-    partial class DbCoreKitapModelSnapshot : ModelSnapshot
+    [Migration("20221219223949_guncellelerCalisti")]
+    partial class guncellelerCalisti
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -52,9 +55,6 @@ namespace deneme2.Migrations
                     b.Property<string>("KitapAdi")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<bool>("KitapDurum")
-                        .HasColumnType("bit");
 
                     b.Property<string>("KitapHakkinda")
                         .IsRequired()
@@ -148,9 +148,6 @@ namespace deneme2.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<bool>("TrcDurum")
-                        .HasColumnType("bit");
-
                     b.Property<string>("TrcSoyadi")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -171,9 +168,6 @@ namespace deneme2.Migrations
                     b.Property<string>("YazarAdi")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<bool>("YazarDurum")
-                        .HasColumnType("bit");
 
                     b.Property<string>("YazarSoyadi")
                         .IsRequired()

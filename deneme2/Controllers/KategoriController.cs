@@ -19,11 +19,35 @@ namespace deneme2.Controllers
         [HttpPost]
         public IActionResult KategoriEkle(Kategori ktg)
         {
-            if (!ModelState.IsValid)
-            {
-                return View();
-            }
+            
             kategoriRepository.TAdd(ktg);
+            return RedirectToAction("Index");
+        }
+        public IActionResult KategoriGet(int id)
+        {
+            var x = kategoriRepository.TGet(id);
+            Kategori ktg = new Kategori()
+            {
+                KtgId = x.KtgId,
+                KtgTuru = x.KtgTuru,
+
+            };
+            return View(ktg);
+        }
+        [HttpPost]
+        public IActionResult KategoriGuncelle(Kategori k)
+        {
+            var x = kategoriRepository.TGet(k.KtgId);
+            x.KtgTuru = k.KtgTuru;
+            x.KtgDurum = true;
+            kategoriRepository.TUpdate(x);
+            return RedirectToAction("Index");
+        }
+        public IActionResult KategoriSil(int id)
+        {
+            var x = kategoriRepository.TGet(id);
+            x.KtgDurum = false;
+            kategoriRepository.TUpdate(x);
             return RedirectToAction("Index");
         }
     }

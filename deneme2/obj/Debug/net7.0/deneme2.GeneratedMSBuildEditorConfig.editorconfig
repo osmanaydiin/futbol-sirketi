@@ -32,12 +32,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlcS2F0ZWdvcmlFa2xlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/crazy/Desktop/osman/deneme2/deneme2/Views/Kategori/KategoriGet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlcS2F0ZWdvcmlHZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/crazy/Desktop/osman/deneme2/deneme2/Views/Kitap/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0YXBcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/crazy/Desktop/osman/deneme2/deneme2/Views/Kitap/KitapEkle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0YXBcS2l0YXBFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crazy/Desktop/osman/deneme2/deneme2/Views/Kitap/KitapGet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0YXBcS2l0YXBHZXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/crazy/Desktop/osman/deneme2/deneme2/Views/Shared/Error.cshtml]
@@ -52,8 +60,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVyY3VtYW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/crazy/Desktop/osman/deneme2/deneme2/Views/Tercuman/TercumanEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVyY3VtYW5cVGVyY3VtYW5Fa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crazy/Desktop/osman/deneme2/deneme2/Views/Tercuman/TercumanGet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVyY3VtYW5cVGVyY3VtYW5HZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/crazy/Desktop/osman/deneme2/deneme2/Views/Yazar/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWF6YXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crazy/Desktop/osman/deneme2/deneme2/Views/Yazar/YazarEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWF6YXJcWWF6YXJFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crazy/Desktop/osman/deneme2/deneme2/Views/Yazar/YazarGet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWF6YXJcWWF6YXJHZXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/crazy/Desktop/osman/deneme2/deneme2/Views/Yorum/Index.cshtml]
