@@ -1,6 +1,45 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model List<deneme2.Models.Yorum>
 @{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
-<h2>Yorum index</h2>
+<style>
+    .Yorum-resim {
+        width: 3vw;
+        height: 10vh;
+    }
+</style>
+
+<h2>Yorumlar</h2>
+<br />
+<table class="table table-active">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Id</th>
+            <th scope="col">Başlık</th>
+            <th scope="col">İçerik</th>
+            <th scope="col">KitapId</th>
+            <th scope="col">KullanıcıId</th>
+            @*<th scope="col">YazarId</th>
+            <th scope="col">TercumanId</th>
+            <th scope="col">Yorumlar</th>*@
+            <th scope="col">Sil</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var k in Model)
+        {
+            <tr>
+                <th scope="col"></th>
+                <td scope="col">@k.YorumId</td>
+                <td scope="col">@k.YorumBaslik</td>
+                <td scope="col">@k.YorumIcerik</td>
+                <td scope="col">@k.KitapId</td>
+                <td scope="col">@k.KullaniciId</td>
+                <td scope="col"><a href="/Yorum/YorumSil/@k.KullaniciId"><button class="btn btn-sm btn-danger">Sil</button> </a> </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

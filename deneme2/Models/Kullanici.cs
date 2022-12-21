@@ -10,6 +10,7 @@ namespace deneme2.Models
         public string KullaniciSoyadi { get; set; }
         public string KullaniciMail { get; set; }
         public string KullaniciSifre { get; set; }
+        public bool KullaniciDurum { get; set; }
 
         public List<Yorum>? Yorumlar { get; set; }
 

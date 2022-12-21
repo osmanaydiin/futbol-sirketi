@@ -1,0 +1,42 @@
+﻿@model List<deneme2.Models.Kullanici>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h2>Kullaniciler</h2>
+<br />
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Id</th>
+            <th scope="col">Adı</th>
+            <th scope="col">Soyadı</th>
+            <th scope="col">Mail</th>
+            <th scope="col">Sifre</th>
+            <th scope="col">Durum</th>
+            <th scope="col"></th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var m in Model)
+        {
+            <tr>
+                <th scope="row"></th>
+                <td>@m.KullaniciId</td>
+                <td>@m.KullaniciAdi</td>
+                <td>@m.KullaniciSoyadi</td>
+                <td>@m.KullaniciMail</td>
+                <td>@m.KullaniciSifre</td>
+                <td>@m.KullaniciDurum</td>
+                <td> <a href="/Kullanici/KullaniciGet/@m.KullaniciId"><button class="btn btn-sm btn-info">Guncelle</button> </td>
+                <td> <a href="/Kullanici/KullaniciSil/@m.KullaniciId"><button class="btn btn-sm btn-danger">Sil</button> </a> </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="KullaniciEkle" asp-controller="Kullanici"><button class="btn btn-sm btn-outline-success ">Kullanici Ekle</button> </a>

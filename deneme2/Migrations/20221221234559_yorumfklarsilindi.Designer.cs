@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using deneme2.Models;
 
@@ -10,9 +11,11 @@ using deneme2.Models;
 namespace deneme2.Migrations
 {
     [DbContext(typeof(DbCoreKitap))]
-    partial class DbCoreKitapModelSnapshot : ModelSnapshot
+    [Migration("20221221234559_yorumfklarsilindi")]
+    partial class yorumfklarsilindi
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

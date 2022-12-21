@@ -31,6 +31,7 @@ namespace deneme2.Controllers
             kitapRepository.TAdd(k1);
             return RedirectToAction("Index");
         }
+        [HttpGet]
         public IActionResult KitapGet(int id)
         {
             List<SelectListItem> kategoriler = (from y in dbck.Kategoriler.ToList()
@@ -64,8 +65,8 @@ namespace deneme2.Controllers
             x.KitapSayfa = k.KitapSayfa;
             x.KitapHakkinda = k.KitapHakkinda;
             x.KitapResimUrl = k.KitapResimUrl;
-            //burası sorunlu
-            x.Kategori.KtgId = k.Kategori.KtgId;
+            x.Kategori = k.Kategori;
+            x.KtgId = k.KtgId;
             x.KitapDurum = true;
             kitapRepository.TUpdate(x);
             return RedirectToAction("Index");
@@ -73,8 +74,11 @@ namespace deneme2.Controllers
 
         public IActionResult KitapSil(int id)
         {
-            kitapRepository.TRemove(new Kitap { KitapId = id});
+            var x = kitapRepository.TGet(id);
+            x.KitapDurum = false;
+            kitapRepository.TUpdate(x);
             return RedirectToAction("Index");
+
         }
     }
 }
