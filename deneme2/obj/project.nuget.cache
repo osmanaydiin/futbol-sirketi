@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QAQbplKGSMr23dIfU5wqPYUY5SIrhkZveNKFfZ+H7sJj+Nhl/H0DLJi9rnPnKTmgZhPgYe2xPuHMG+FhyC8gOA==",
+  "dgSpecHash": "M6K7H5VXZ9yWoPvtTK2N3c9r0l8xd4T9VS17U22lbehGDFT96Vt2O+rfse0eu+Pw8nIiguJViZg6mPWoLyUAjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\crazy\\Desktop\\osman\\deneme2\\deneme2\\deneme2.csproj",
+  "projectFilePath": "C:\\Users\\crazy\\Desktop\\osman\\mvc-kitaplar\\deneme2\\deneme2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\crazy\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\crazy\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

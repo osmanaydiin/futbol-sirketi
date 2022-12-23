@@ -1,0 +1,44 @@
+﻿@model List<takim1.Models.Takim>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h2>Takimler</h2>
+<br />
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Id</th>
+            <th scope="col">Resim</th>
+            <th scope="col">Adı</th>
+            <th scope="col">Sampiyonluk</th>
+            <th scope="col">Deger</th>
+            <th scope="col">Kurulus Tarihi</th>
+            @*<th scope="col">Durum</th>*@
+            <th scope="col"></th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var m in Model)
+        {
+            <tr>
+                <th scope="row"></th>
+                <td>@m.TakimId</td>
+                <td>@m.TakimResimUrl</td>
+                <td>@m.TakimAdi</td>
+                <td>@m.TakimSampiyonluk</td>
+                <td>@m.TakimDeger</td>
+                <td>@m.TakimKurulus</td>
+                @*<td>@m.KtgDurum</td>*@
+                <td> <a href=""><button class="btn btn-sm btn-info">Guncelle</button> </td>
+                <td> <a href=""><button class="btn btn-sm btn-danger">Sil</button> </a> </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="TakimEkle" asp-controller="Takim"><button class="btn btn-sm btn-outline-success ">Takim Ekle</button> </a>

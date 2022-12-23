@@ -7209,11 +7209,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\crazy\\Desktop\\osman\\deneme2\\deneme2\\deneme2.csproj",
+      "projectUniqueName": "C:\\Users\\crazy\\Desktop\\osman\\mvc-kitaplar\\deneme2\\deneme2.csproj",
       "projectName": "deneme2",
-      "projectPath": "C:\\Users\\crazy\\Desktop\\osman\\deneme2\\deneme2\\deneme2.csproj",
+      "projectPath": "C:\\Users\\crazy\\Desktop\\osman\\mvc-kitaplar\\deneme2\\deneme2.csproj",
       "packagesPath": "C:\\Users\\crazy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\crazy\\Desktop\\osman\\deneme2\\deneme2\\obj\\",
+      "outputPath": "C:\\Users\\crazy\\Desktop\\osman\\mvc-kitaplar\\deneme2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\crazy\\AppData\\Roaming\\NuGet\\NuGet.Config",
