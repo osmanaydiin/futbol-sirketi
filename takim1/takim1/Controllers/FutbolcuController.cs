@@ -36,5 +36,51 @@ namespace takim1.Controllers
             futbolcuRepository.TRemove( new Futbolcu { FutbolcuId = id});
             return RedirectToAction("Index");
         }
+        [HttpGet]
+        public IActionResult FutbolcuGet(int id)
+        {
+            var x = futbolcuRepository.TGet(id);
+            List<SelectListItem> takimlar = (from y in c.Takimlar.ToList()
+                                             select new SelectListItem
+                                             {
+                                                 Text = y.TakimAdi,
+                                                 Value = y.TakimId.ToString()
+                                             }).ToList();
+            ViewBag.kt1 = takimlar;
+            Futbolcu f = new Futbolcu()
+            {
+                FutbolcuId = x.FutbolcuId,
+                TakimId = x.TakimId,
+                FutbolcuAdi = x.FutbolcuAdi,
+                FutbolcuSoyadi = x.FutbolcuSoyadi,
+                FutbolcuYas = x.FutbolcuYas,
+                FutbolcuMaas = x.FutbolcuMaas,
+                FutbolcuDeger = x.FutbolcuDeger,
+                FutbolcuGecmis = x.FutbolcuGecmis,
+                FutbolcuMevki = x.FutbolcuMevki,
+                FutbolcuNumara = x.FutbolcuNumara,
+                FutbolcuResimUrl = x.FutbolcuResimUrl,
+
+            };
+            return View(f);
+        }
+        [HttpPost]
+        public IActionResult FutbolcuGuncelle(Futbolcu k)
+        {
+            var x = futbolcuRepository.TGet(k.FutbolcuId);
+            x.FutbolcuAdi = k.FutbolcuAdi;
+            x.FutbolcuSoyadi = k.FutbolcuSoyadi;
+            x.FutbolcuYas = k.FutbolcuYas;
+            x.FutbolcuMaas = k.FutbolcuMaas;
+            x.FutbolcuDeger = k.FutbolcuDeger;
+            x.FutbolcuMevki = k.FutbolcuMevki;
+            x.FutbolcuNumara = k.FutbolcuNumara;
+            x.FutbolcuGecmis = k.FutbolcuGecmis;
+            x.FutbolcuResimUrl = k.FutbolcuResimUrl;
+            x.TakimId = k.TakimId;
+            futbolcuRepository.TUpdate(x);
+            return RedirectToAction("Index");
+
+        }
     }
 }

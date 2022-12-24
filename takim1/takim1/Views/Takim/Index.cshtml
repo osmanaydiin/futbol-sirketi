@@ -12,12 +12,11 @@
         <tr>
             <th scope="col">#</th>
             <th scope="col">Id</th>
-            <th scope="col">Resim</th>
             <th scope="col">Adı</th>
             <th scope="col">Sampiyonluk</th>
             <th scope="col">Deger</th>
             <th scope="col">Kurulus Tarihi</th>
-            @*<th scope="col">Durum</th>*@
+            <th scope="col">Durum</th>
             <th scope="col"></th>
             <th scope="col"></th>
         </tr>
@@ -28,14 +27,13 @@
             <tr>
                 <th scope="row"></th>
                 <td>@m.TakimId</td>
-                <td>@m.TakimResimUrl</td>
                 <td>@m.TakimAdi</td>
                 <td>@m.TakimSampiyonluk</td>
                 <td>@m.TakimDeger</td>
                 <td>@m.TakimKurulus</td>
-                @*<td>@m.KtgDurum</td>*@
-                <td> <a href=""><button class="btn btn-sm btn-info">Guncelle</button> </td>
-                <td> <a href=""><button class="btn btn-sm btn-danger">Sil</button> </a> </td>
+                <td>@m.TakimDurum</td>
+                <td> <a href="/Takim/TakimGet/@m.TakimId"><button class="btn btn-sm btn-info">Guncelle</button> </td>
+                <td> <a href="/Takim/TakimSil/@m.TakimId"><button class="btn btn-sm btn-danger">Sil</button> </a> </td>
             </tr>
         }
     </tbody>

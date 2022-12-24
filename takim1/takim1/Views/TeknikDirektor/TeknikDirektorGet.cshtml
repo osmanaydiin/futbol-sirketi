@@ -4,12 +4,14 @@
 *@
 @{
 }
-<h2>teknik direktor ekle</h2>
+<h2>teknik direktot ekle</h2>
 <br />
 
-@using (Html.BeginForm("TeknikDirektorEkle", "TeknikDirektor", FormMethod.Post))
+@using (Html.BeginForm("TeknikDirektorGuncelle", "TeknikDirektor", FormMethod.Post))
 {
-    @Html.LabelFor(x=>x.TeknikDirektorAdi);
+    @Html.LabelFor(x=>x.TeknikDirektorId);
+    @Html.TextBoxFor(x=>x.TeknikDirektorId , new {@class="form-control"});
+    <br />@Html.LabelFor(x=>x.TeknikDirektorAdi);
     @Html.TextBoxFor(x=>x.TeknikDirektorAdi , new {@class="form-control"});
     <br />
     @Html.LabelFor(x=>x.TeknikDirektorSoyadi);

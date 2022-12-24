@@ -4,12 +4,15 @@
 *@
 @{
 }
+
 <h2>futbolcu ekle</h2>
 <br />
 
-@using (Html.BeginForm("FutbolcuEkle", "Futbolcu", FormMethod.Post))
+@using (Html.BeginForm("FutbolcuGuncelle", "Futbolcu", FormMethod.Post))
 {
-    @Html.LabelFor(x=>x.FutbolcuAdi);
+    @Html.LabelFor(x=>x.FutbolcuId);
+    @Html.TextBoxFor(x=>x.FutbolcuId , new {@class="form-control"});
+    <br />@Html.LabelFor(x=>x.FutbolcuAdi);
     @Html.TextBoxFor(x=>x.FutbolcuAdi , new {@class="form-control"});
     <br />
     @Html.LabelFor(x=>x.FutbolcuSoyadi);
@@ -19,6 +22,7 @@
     @Html.TextBoxFor(x=>x.FutbolcuYas , new {@class="form-control"});
     <br />
     @Html.LabelFor(x=>x.TakimId);
+    //@Html.TextBoxFor(x=>x.TakimId, new {@class="form-control"});
     @Html.DropDownListFor(x=>x.TakimId ,(List<SelectListItem>)ViewBag.kt1, new {@class="form-control"});
     <br />
     @Html.LabelFor(x=>x.FutbolcuDeger);

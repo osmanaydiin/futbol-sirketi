@@ -20,6 +20,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnV0Ym9sY3VcRnV0Ym9sY3VFa2xlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/crazy/Desktop/osman/takim1/takim1/Views/Futbolcu/FutbolcuGet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnV0Ym9sY3VcRnV0Ym9sY3VHZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/crazy/Desktop/osman/takim1/takim1/Views/Futbolcu/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnV0Ym9sY3VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -48,12 +52,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFraW1cVGFraW1Fa2xlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/crazy/Desktop/osman/takim1/takim1/Views/Takim/TakimGet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFraW1cVGFraW1HZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/crazy/Desktop/osman/takim1/takim1/Views/TeknikDirektor/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVrbmlrRGlyZWt0b3JcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/crazy/Desktop/osman/takim1/takim1/Views/TeknikDirektor/TeknikDirektorEkle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVrbmlrRGlyZWt0b3JcVGVrbmlrRGlyZWt0b3JFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crazy/Desktop/osman/takim1/takim1/Views/TeknikDirektor/TeknikDirektorGet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVrbmlrRGlyZWt0b3JcVGVrbmlrRGlyZWt0b3JHZXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/crazy/Desktop/osman/takim1/takim1/Views/_ViewImports.cshtml]
