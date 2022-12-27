@@ -1,15 +1,18 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using takim1.Models;
 using takim1.Repositories;
+using X.PagedList;
 
 namespace takim1.Controllers
 {
     public class TakimController : Controller
     {
         TakimRepository takimRepository = new TakimRepository();
-        public IActionResult Index()
+        //[Authorize]
+        public IActionResult Index(int page = 1)
         {
-            return View(takimRepository.TList());
+            return View(takimRepository.TList().ToPagedList(page, 4));
         }
         [HttpGet]
         public IActionResult TakimEkle() 
@@ -19,6 +22,7 @@ namespace takim1.Controllers
         [HttpPost]
         public IActionResult TakimEkle(Takim t) 
         {
+             
             takimRepository.TAdd(t);
             return RedirectToAction("Index");
         }

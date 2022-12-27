@@ -11,6 +11,7 @@ namespace takim1.Models
         public DbSet<Takim> Takimlar { get; set; }
         public DbSet<Futbolcu> Futbolcular { get; set; }
         public DbSet<TeknikDirektor> TeknikDirektorler { get; set; }
+        public DbSet<Kullanici> Kullanicilar { get; set; }
 
 
     }

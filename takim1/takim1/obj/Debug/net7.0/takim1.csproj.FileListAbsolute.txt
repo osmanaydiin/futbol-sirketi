@@ -273,3 +273,7 @@ C:\Users\crazy\Desktop\osman\takim1\takim1\bin\Debug\net7.0\runtimes\unix\lib\ne
 C:\Users\crazy\Desktop\osman\takim1\takim1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\crazy\Desktop\osman\takim1\takim1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\crazy\Desktop\osman\takim1\takim1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\crazy\Desktop\osman\takim1\takim1\bin\Debug\net7.0\JetBrains.Annotations.dll
+C:\Users\crazy\Desktop\osman\takim1\takim1\bin\Debug\net7.0\X.PagedList.dll
+C:\Users\crazy\Desktop\osman\takim1\takim1\bin\Debug\net7.0\X.PagedList.Mvc.Core.dll
+C:\Users\crazy\Desktop\osman\takim1\takim1\obj\Debug\net7.0\takim1.MvcApplicationPartsAssemblyInfo.cs

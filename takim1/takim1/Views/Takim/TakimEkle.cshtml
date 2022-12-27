@@ -4,24 +4,25 @@
 *@
 @{
 }
-<h2>takım ekle</h2>
+<h2>Takım Ekle</h2>
 <br />
 
 @using (Html.BeginForm("TakimEkle", "Takim", FormMethod.Post))
 {
-    @Html.LabelFor(x=>x.TakimAdi);
+    @Html.Label("Takım Adı");
     @Html.TextBoxFor(x=>x.TakimAdi , new {@class="form-control"});
+    @Html.ValidationMessageFor(x=>x.TakimAdi, "", new {@style= "color:#00F054" } )
     <br />
-    @Html.LabelFor(x=>x.TakimSampiyonluk);
+    @Html.Label("Takım Sampiyonluk Sayısı");
     @Html.TextBoxFor(x=>x.TakimSampiyonluk , new {@class="form-control"});
     <br />
-    @Html.LabelFor(x=>x.TakimDeger);
+    @Html.Label("Takımın Degeri");
     @Html.TextBoxFor(x=>x.TakimDeger , new {@class="form-control"});
     <br />
-    @Html.LabelFor(x=>x.TakimKurulus);
+    @Html.Label("Takımın Kuruluş Yılı");
     @Html.TextBoxFor(x=>x.TakimKurulus , new {@class="form-control"});
     <br />
-    @Html.LabelFor(x=>x.TakimResimUrl);
+    @Html.Label("Takımın Resmi");
     @Html.TextBoxFor(x=>x.TakimResimUrl , new {@class="form-control"});
     <br />
     <button>ekle</button>

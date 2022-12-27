@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\crazy\Desktop\osman\takim1\takim1
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/crazy/Desktop/osman/takim1/takim1/Views/AnaSayfa/Components/TakimListele/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hU2F5ZmFcQ29tcG9uZW50c1xUYWtpbUxpc3RlbGVcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crazy/Desktop/osman/takim1/takim1/Views/AnaSayfa/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hU2F5ZmFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/crazy/Desktop/osman/takim1/takim1/Views/Futbolcu/FutbolcuEkle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnV0Ym9sY3VcRnV0Ym9sY3VFa2xlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -28,6 +36,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnV0Ym9sY3VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/crazy/Desktop/osman/takim1/takim1/Views/Giris/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lyaXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/crazy/Desktop/osman/takim1/takim1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -36,8 +48,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/crazy/Desktop/osman/takim1/takim1/Views/Kullanici/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crazy/Desktop/osman/takim1/takim1/Views/Kullanici/KullaniciEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpXEt1bGxhbmljaUVrbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crazy/Desktop/osman/takim1/takim1/Views/Kullanici/KullaniciGet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpXEt1bGxhbmljaUdldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/crazy/Desktop/osman/takim1/takim1/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crazy/Desktop/osman/takim1/takim1/Views/Shared/_SayfaLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TYXlmYUxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/crazy/Desktop/osman/takim1/takim1/Views/Shared/_ValidationScriptsPartial.cshtml]

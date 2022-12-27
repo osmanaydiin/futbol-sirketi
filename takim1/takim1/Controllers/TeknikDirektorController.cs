@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Drawing;
 using takim1.Models;
 using takim1.Repositories;
+using X.PagedList;
 
 namespace takim1.Controllers
 {
@@ -10,9 +11,9 @@ namespace takim1.Controllers
     {
         Context c = new Context();
         TeknikDirektorRepository teknikDirektorRepository = new TeknikDirektorRepository();
-        public IActionResult Index()
+        public IActionResult Index(int page = 1)
         {
-            return View(teknikDirektorRepository.TList("Takim"));
+            return View(teknikDirektorRepository.TList("Takim").ToPagedList(page, 4));
         }
         [HttpGet]
         public IActionResult TeknikDirektorEkle()

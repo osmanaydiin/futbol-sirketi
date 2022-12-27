@@ -69,6 +69,40 @@ namespace takim1.Migrations
                     b.ToTable("Futbolcular");
                 });
 
+            modelBuilder.Entity("takim1.Models.Kullanici", b =>
+                {
+                    b.Property<int>("KullaniciId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("KullaniciId"));
+
+                    b.Property<string>("KullaniciAdi")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("KullaniciMail")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("KullaniciRol")
+                        .IsRequired()
+                        .HasMaxLength(1)
+                        .HasColumnType("nvarchar(1)");
+
+                    b.Property<string>("KullaniciSifre")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("KullaniciSoyadi")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("KullaniciId");
+
+                    b.ToTable("Kullanicilar");
+                });
+
             modelBuilder.Entity("takim1.Models.Takim", b =>
                 {
                     b.Property<int>("TakimId")

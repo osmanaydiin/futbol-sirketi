@@ -1,7 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using takim1.Models;
 using takim1.Repositories;
+using X.PagedList;
 
 namespace takim1.Controllers
 {
@@ -9,9 +11,10 @@ namespace takim1.Controllers
     {
         Context c = new Context();
         FutbolcuRepository futbolcuRepository = new FutbolcuRepository();
-        public IActionResult Index()
+        
+        public IActionResult Index(int page=1)
         {
-            return View(futbolcuRepository.TList("Takim"));
+            return View(futbolcuRepository.TList("Takim").ToPagedList(page,4));
         }
         [HttpGet]
         public IActionResult FutbolcuEkle() 
@@ -28,6 +31,7 @@ namespace takim1.Controllers
         [HttpPost]
         public IActionResult FutbolcuEkle(Futbolcu f)
         {
+           
             futbolcuRepository.TAdd(f);
             return RedirectToAction("Index");
         }

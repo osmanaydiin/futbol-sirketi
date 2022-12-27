@@ -1,4 +1,7 @@
-﻿@model List<takim1.Models.TeknikDirektor>
+﻿@using X.PagedList;
+@using X.PagedList.Mvc.Core;
+
+@model IPagedList<takim1.Models.TeknikDirektor>
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
@@ -41,5 +44,5 @@
         }
     </tbody>
 </table>
-
+@Html.PagedListPager((IPagedList)Model,page => Url.Action("Index",new {page}))
 <a asp-action="TeknikDirektorEkle" asp-controller="TeknikDirektor"><button class="btn btn-sm btn-outline-success ">TeknikDirektor Ekle</button> </a>

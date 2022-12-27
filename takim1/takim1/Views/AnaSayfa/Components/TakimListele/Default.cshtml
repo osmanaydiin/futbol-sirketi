@@ -1,0 +1,10 @@
+﻿@model IEnumerable<takim1.Models.Takim>
+
+<div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
+	<ul class="nav navbar-nav nav_1">
+		@foreach(var nesne in Model)
+		{
+			<li><a href="products.html">@nesne.TakimAdi</a></li>
+		}
+	</ul>
+</div>
