@@ -8,9 +8,9 @@
 }
 
 
-<h2>Takimler</h2>
+<h2>Takımlar</h2>
 <br />
-<table class="table table-hover">
+<table class="table table-hover table-dark">
     <thead>
         <tr>
             <th scope="col">#</th>
@@ -35,11 +35,11 @@
                 <td>@m.TakimDeger</td>
                 <td>@m.TakimKurulus</td>
                 <td>@m.TakimDurum</td>
-                <td> <a href="/Takim/TakimGet/@m.TakimId"><button class="btn btn-sm btn-info">Guncelle</button> </td>
-                <td> <a href="/Takim/TakimSil/@m.TakimId"><button class="btn btn-sm btn-danger">Sil</button> </a> </td>
+                <td> <a href="/Takim/TakimGet/@m.TakimId"><button class="btn btnGuncelle">Guncelle</button> </td>
+                <td> <a href="/Takim/TakimSil/@m.TakimId"><button class="btn btnSil">Sil</button> </a> </td>
             </tr>
         }
     </tbody>
 </table>
 @Html.PagedListPager((IPagedList)Model,page => Url.Action("Index",new {page}))
-<a asp-action="TakimEkle" asp-controller="Takim"><button class="btn btn-sm btn-outline-success ">Takim Ekle</button> </a>
+<a asp-action="TakimEkle" asp-controller="Takim"><button class="btn btnEkle" style="">Takim Ekle</button> </a>

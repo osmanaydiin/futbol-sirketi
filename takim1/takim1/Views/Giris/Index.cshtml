@@ -4,100 +4,60 @@
 @{
     Layout = null;
 }
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-	<title>Admin Panel Giriş</title>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-<!--===============================================================================================-->	
-	<link rel="icon" type="image/png" href="~/Login_v6/images/icons/favicon.ico"/>
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="~/Login_v6/vendor/bootstrap/css/bootstrap.min.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="~/Login_v6/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="~/Login_v6/fonts/iconic/css/material-design-iconic-font.min.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="~/Login_v6/vendor/animate/animate.css">
-<!--===============================================================================================-->	
-	<link rel="stylesheet" type="text/css" href="~/Login_v6/vendor/css-hamburgers/hamburgers.min.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="~/Login_v6/vendor/animsition/css/animsition.min.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="~/Login_v6/vendor/select2/select2.min.css">
-<!--===============================================================================================-->	
-	<link rel="stylesheet" type="text/css" href="~/Login_v6/vendor/daterangepicker/daterangepicker.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="~/Login_v6/css/util.css">
-	<link rel="stylesheet" type="text/css" href="~/Login_v6/css/main.css">
-<!--===============================================================================================-->
+  <head>
+	  <title>Admin Panel Giriş</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="~/login/css/style.css">
 
-</head>
-<body>
-	
-	<div class="limiter">
-		<div class="container-login100">
-			<div class="wrap-login100 p-t-85 p-b-20">
-				<form class="login100-form validate-form" asp-action="Index" asp-controller="Giris" method="post">
-					<span class="login100-form-title p-b-70">
-						Giriş Yapmalısın Dostum 
-					</span>
-					<span class="login100-form-avatar" style="width:160px;height:160px;" >
-						<img src="~/Login_v6/images/adminPanel.png" alt="AVATAR">
-					</span>
-
-					<div class="wrap-input100 validate-input m-t-85 m-b-35" data-validate = "Enter username">
-						<input class="input100" type="text" name="KullaniciMail">
-						<span class="focus-input100" data-placeholder="Kullanıcı adı giriniz"></span>
-					</div>
-
-					<div class="wrap-input100 validate-input m-b-50" data-validate="Enter password">
-						<input class="input100" type="password" name="KullaniciSifre">
-						<span class="focus-input100" data-placeholder="Şifre giriniz"></span>
-					</div>
-
-					<div class="container-login100-form-btn">
-						<button class="login100-form-btn" style="background-color:dimgray;shadow-lg p-3 mb-5 bg-body-tertiary rounded;">
-							Giriş Yap
-						</button>
-					</div>
-
-					<ul class="login-more p-t-190">
-						<li class="m-b-8">
-							
-
-							<a href="#" class="txt2">
-								Vazgeç
-							</a>
-						</li>
-
+	</head>
+	<body>
+	<section class="ftco-section">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-md-6 text-center mb-5">
+					<h2 class="heading-section">Admin Panel Giriş</h2>
+				</div>
+			</div>
+			<div class="row justify-content-center">
+				<div class="col-md-6 col-lg-5">
+					<div class="login-wrap p-4 p-md-5">
+				  <div class="icon d-flex align-items-center justify-content-center">
+					  <span class="fa fa-user-o"></span>
+				  </div>
+				  <h3 class="text-center mb-4" style="color:darkgreen;">Giriş Yap</h3>
+						<form asp-action="Index" asp-controller="Giris" method="post" class="login-form">
+					  <div class="form-group">
+						  <input type="text" class="form-control rounded-left" name="KullaniciMail" placeholder="Mail giriniz..." required>
+					  </div>
+				<div class="form-group d-flex">
+				  <input type="password" class="form-control rounded-left" name="KullaniciSifre" placeholder="Sifre giriniz..." required>
+				</div>
+				@*<div class="form-group d-md-flex">
+					
+								
+				</div>*@
+				<div class="form-group">
+					<button type="submit" class="btn btn-primary rounded submit p-3 px-5">Giriş</button>
+				</div>
+			  </form>
 						
-					</ul>
-				</form>
+			</div>
+				</div>
 			</div>
 		</div>
-	</div>
-	
+		
+	</section>
+	<a href="/AnaSayfa/Index"><h4 class="text-center mb-4" style="color:darkgreen;">Ana Sayfaya Dön</h4></a>
+	<script src="~/login/js/jquery.min.js"></script>
+	<script src="~/login/js/popper.js"></script>
+	<script src="~/login/js/bootstrap.min.js"></script>
+	<script src="~/login/js/main.js"></script>
 
-	<div id="dropDownSelect1"></div>
-	
-<!--===============================================================================================-->
-	<script src="~/Login_v6/vendor/jquery/jquery-3.2.1.min.js"></script>
-<!--===============================================================================================-->
-	<script src="~/Login_v6/vendor/animsition/js/animsition.min.js"></script>
-<!--===============================================================================================-->
-	<script src="~/Login_v6/vendor/bootstrap/js/popper.js"></script>
-	<script src="~/Login_v6/vendor/bootstrap/js/bootstrap.min.js"></script>
-<!--===============================================================================================-->
-	<script src="~/Login_v6/vendor/select2/select2.min.js"></script>
-<!--===============================================================================================-->
-	<script src="~/Login_v6/vendor/daterangepicker/moment.min.js"></script>
-	<script src="~/Login_v6/vendor/daterangepicker/daterangepicker.js"></script>
-<!--===============================================================================================-->
-	<script src="~/Login_v6/vendor/countdowntime/countdowntime.js"></script>
-<!--===============================================================================================-->
-	<script src="~/Login_v6/js/main.js"></script>
-
-</body>
+	</body>
 </html>
+

@@ -40,7 +40,7 @@ namespace takim1.Controllers
         public async Task<IActionResult> CikisYap()
         {
             await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
-            return RedirectToAction("Index");
+            return RedirectToAction("Index", "AnaSayfa");
         }
     }
 }

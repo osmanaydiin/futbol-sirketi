@@ -13,6 +13,6 @@ namespace takim1.Models
         public DbSet<TeknikDirektor> TeknikDirektorler { get; set; }
         public DbSet<Kullanici> Kullanicilar { get; set; }
 
-
+         
     }
 }

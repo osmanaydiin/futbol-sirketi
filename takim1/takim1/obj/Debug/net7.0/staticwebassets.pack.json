@@ -5,420 +5,704 @@
       "PackagePath": "staticwebassets\\takim1.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\css\\main.css",
-      "PackagePath": "staticwebassets\\Login_v6\\css\\main.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\about.html",
+      "PackagePath": "staticwebassets\\AnaSayfa\\about.html"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\css\\util.css",
-      "PackagePath": "staticwebassets\\Login_v6\\css\\util.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\bread.html",
+      "PackagePath": "staticwebassets\\AnaSayfa\\bread.html"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\checkout.html",
+      "PackagePath": "staticwebassets\\AnaSayfa\\checkout.html"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\AnaSayfa\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\css\\creditly.css",
+      "PackagePath": "staticwebassets\\AnaSayfa\\css\\creditly.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\css\\easy-responsive-tabs.css",
+      "PackagePath": "staticwebassets\\AnaSayfa\\css\\easy-responsive-tabs.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\AnaSayfa\\css\\flexslider.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\AnaSayfa\\css\\font-awesome.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\css\\style.css",
+      "PackagePath": "staticwebassets\\AnaSayfa\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\drinks.html",
+      "PackagePath": "staticwebassets\\AnaSayfa\\drinks.html"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\events.html",
+      "PackagePath": "staticwebassets\\AnaSayfa\\events.html"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\animated.less",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\faqs.html",
+      "PackagePath": "staticwebassets\\AnaSayfa\\faqs.html"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\AnaSayfa\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\core.less",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\core.less"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\AnaSayfa\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\AnaSayfa\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\icons.less",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\AnaSayfa\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\larger.less",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\AnaSayfa\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\list.less",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\list.less"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\AnaSayfa\\fonts\\glyphicons-halflings-regular.woff2"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\frozen.html",
+      "PackagePath": "staticwebassets\\AnaSayfa\\frozen.html"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\path.less",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\path.less"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\household.html",
+      "PackagePath": "staticwebassets\\AnaSayfa\\household.html"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\1.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\1.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\10.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\10.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\variables.less",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\10.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\10.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\11.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\11.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\11.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\11.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\12.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\12.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\12.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\12.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\13.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\13.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\13.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\13.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\14.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\14.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\14.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\14.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\15.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\15.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\15.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\15.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\16.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\16.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\16.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\16.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\17.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\17.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\17.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\17.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\iconic\\css\\material-design-iconic-font.css",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\iconic\\css\\material-design-iconic-font.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\18.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\18.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\18.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\18.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\19.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\19.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\19.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\19.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\2.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\2.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\20.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\20.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-Black.ttf",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-Black.ttf"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\20.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\20.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-BlackItalic.ttf",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\21.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\21.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-Bold.ttf",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-Bold.ttf"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\21.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\21.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-BoldItalic.ttf",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\22.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\22.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-ExtraBold.ttf",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\22.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\22.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\23.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\23.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-ExtraLight.ttf",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\23.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\23.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\24.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\24.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-Italic.ttf",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-Italic.ttf"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\24.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\24.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-Light.ttf",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-Light.ttf"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\25.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\25.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-LightItalic.ttf",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-LightItalic.ttf"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\25.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\25.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-Medium.ttf",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-Medium.ttf"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\26.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\26.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-MediumItalic.ttf",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\26.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\26.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-Regular.ttf",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-Regular.ttf"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\27.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\27.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-SemiBold.ttf",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-SemiBold.ttf"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\27.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\27.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\28.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\28.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-Thin.ttf",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-Thin.ttf"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\28.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\28.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-ThinItalic.ttf",
-      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\29.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\29.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\images\\adminPanel.png",
-      "PackagePath": "staticwebassets\\Login_v6\\images\\adminPanel.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\29.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\29.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\images\\icons\\favicon.ico",
-      "PackagePath": "staticwebassets\\Login_v6\\images\\icons\\favicon.ico"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\index.html",
-      "PackagePath": "staticwebassets\\Login_v6\\index.html"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\3.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\3.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\js\\main.js",
-      "PackagePath": "staticwebassets\\Login_v6\\js\\main.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\30.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\30.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\animate\\animate.css",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\animate\\animate.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\30.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\30.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\animsition\\css\\animsition.css",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\animsition\\css\\animsition.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\31.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\31.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\animsition\\css\\animsition.min.css",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\animsition\\css\\animsition.min.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\31.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\31.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\animsition\\js\\animsition.js",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\animsition\\js\\animsition.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\32.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\32.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\animsition\\js\\animsition.min.js",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\animsition\\js\\animsition.min.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\32.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\32.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\33.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\33.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\33.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\33.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\34.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\34.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\34.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\34.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\35.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\35.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\35.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\35.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\36.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\36.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\37.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\37.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\38.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\38.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.css.map"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\39.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\39.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.min.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\4.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\4.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\bootstrap\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\js\\bootstrap.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\40.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\40.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\bootstrap\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\js\\bootstrap.min.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\41.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\41.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\bootstrap\\js\\popper.js",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\js\\popper.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\42.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\42.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\bootstrap\\js\\popper.min.js",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\js\\popper.min.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\43.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\43.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\bootstrap\\js\\tooltip.js",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\js\\tooltip.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\44.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\44.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\countdowntime\\countdowntime.js",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\countdowntime\\countdowntime.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\45.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\45.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\css-hamburgers\\hamburgers.css",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\css-hamburgers\\hamburgers.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\46.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\46.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\css-hamburgers\\hamburgers.min.css",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\css-hamburgers\\hamburgers.min.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\47.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\47.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\daterangepicker\\daterangepicker.css",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\daterangepicker\\daterangepicker.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\48.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\48.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\daterangepicker\\daterangepicker.js",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\daterangepicker\\daterangepicker.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\49.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\49.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\daterangepicker\\moment.js",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\daterangepicker\\moment.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\daterangepicker\\moment.min.js",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\daterangepicker\\moment.min.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\5.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\5.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\jquery\\jquery-3.2.1.min.js",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\jquery\\jquery-3.2.1.min.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\50.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\50.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\51.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\51.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\52.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\52.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\select2\\select2.css",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\select2\\select2.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\53.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\53.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\select2\\select2.js",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\select2\\select2.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\54.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\54.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\select2\\select2.min.css",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\select2\\select2.min.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\55.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\55.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\Login_v6\\vendor\\select2\\select2.min.js",
-      "PackagePath": "staticwebassets\\Login_v6\\vendor\\select2\\select2.min.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\56.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\56.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\57.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\57.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\58.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\58.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\59.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\59.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\6.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\60.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\60.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\61.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\61.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\62.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\62.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\63.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\63.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\64.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\64.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\65.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\65.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\66.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\66.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\67.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\67.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\68.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\68.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\69.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\69.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\7.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\70.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\70.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\71.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\71.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\72.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\72.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\73.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\73.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\74.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\74.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\75.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\75.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\76.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\76.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\8.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\9.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\9.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\DALL·E 2022-12-28 20.59.09 -  The ambition, complicated, competition and magic of digital art and football are with darkgreen color.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\DALL·E 2022-12-28 20.59.09 -  The ambition, complicated, competition and magic of digital art and football are with darkgreen color.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\besiktas.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\besiktas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\card.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\card.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\cart.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\cart.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\close_1.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\close_1.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\fenerbahce.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\fenerbahce.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\gs.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\gs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\img-sp.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\img-sp.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\offer.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\offer.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\paypal.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\sakarya.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\sakarya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\sakarya1.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\sakarya1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\sakarya2.jpg",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\sakarya2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\star.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\star.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\star1.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\star1.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\images\\tag.png",
+      "PackagePath": "staticwebassets\\AnaSayfa\\images\\tag.png"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\index.html",
+      "PackagePath": "staticwebassets\\AnaSayfa\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\AnaSayfa\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\js\\counterup.min.js",
+      "PackagePath": "staticwebassets\\AnaSayfa\\js\\counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\js\\creditly.js",
+      "PackagePath": "staticwebassets\\AnaSayfa\\js\\creditly.js"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\js\\easing.js",
+      "PackagePath": "staticwebassets\\AnaSayfa\\js\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\js\\easyResponsiveTabs.js",
+      "PackagePath": "staticwebassets\\AnaSayfa\\js\\easyResponsiveTabs.js"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\js\\jquery-1.11.1.min.js",
+      "PackagePath": "staticwebassets\\AnaSayfa\\js\\jquery-1.11.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\js\\jquery.flexslider.js",
+      "PackagePath": "staticwebassets\\AnaSayfa\\js\\jquery.flexslider.js"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\js\\jquery.wmuSlider.js",
+      "PackagePath": "staticwebassets\\AnaSayfa\\js\\jquery.wmuSlider.js"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\js\\minicart.js",
+      "PackagePath": "staticwebassets\\AnaSayfa\\js\\minicart.js"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\js\\move-top.js",
+      "PackagePath": "staticwebassets\\AnaSayfa\\js\\move-top.js"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\js\\okzoom.js",
+      "PackagePath": "staticwebassets\\AnaSayfa\\js\\okzoom.js"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\AnaSayfa\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\kitchen.html",
+      "PackagePath": "staticwebassets\\AnaSayfa\\kitchen.html"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\login.html",
+      "PackagePath": "staticwebassets\\AnaSayfa\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\mail.html",
+      "PackagePath": "staticwebassets\\AnaSayfa\\mail.html"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\payment.html",
+      "PackagePath": "staticwebassets\\AnaSayfa\\payment.html"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\pet.html",
+      "PackagePath": "staticwebassets\\AnaSayfa\\pet.html"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\privacy.html",
+      "PackagePath": "staticwebassets\\AnaSayfa\\privacy.html"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\products.html",
+      "PackagePath": "staticwebassets\\AnaSayfa\\products.html"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\services.html",
+      "PackagePath": "staticwebassets\\AnaSayfa\\services.html"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\short-codes.html",
+      "PackagePath": "staticwebassets\\AnaSayfa\\short-codes.html"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\single.html",
+      "PackagePath": "staticwebassets\\AnaSayfa\\single.html"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\vegetables.html",
+      "PackagePath": "staticwebassets\\AnaSayfa\\vegetables.html"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\AnaSayfa\\w3layouts-License.txt",
+      "PackagePath": "staticwebassets\\AnaSayfa\\w3layouts-License.txt"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\css\\arkaplan.jpg",
+      "PackagePath": "staticwebassets\\css\\arkaplan.jpg"
     },
     {
       "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\css\\site.css",
@@ -661,696 +945,980 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\about.html",
-      "PackagePath": "staticwebassets\\web\\about.html"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\.DS_Store",
+      "PackagePath": "staticwebassets\\login\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\bread.html",
-      "PackagePath": "staticwebassets\\web\\bread.html"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\login\\css\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\checkout.html",
-      "PackagePath": "staticwebassets\\web\\checkout.html"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\web\\css\\bootstrap.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\css\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\css\\creditly.css",
-      "PackagePath": "staticwebassets\\web\\css\\creditly.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\css\\bootstrap\\_media.css",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap\\_media.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\css\\easy-responsive-tabs.css",
-      "PackagePath": "staticwebassets\\web\\css\\easy-responsive-tabs.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\css\\bootstrap\\mixins\\.DS_Store",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap\\mixins\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\css\\flexslider.css",
-      "PackagePath": "staticwebassets\\web\\css\\flexslider.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\css\\bootstrap\\mixins\\_border-radius.css",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap\\mixins\\_border-radius.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\css\\font-awesome.css",
-      "PackagePath": "staticwebassets\\web\\css\\font-awesome.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\css\\bootstrap\\mixins\\_screen-reader.css",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap\\mixins\\_screen-reader.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\css\\style.css",
-      "PackagePath": "staticwebassets\\web\\css\\style.css"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\css\\bootstrap\\mixins\\_visibility.css",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap\\mixins\\_visibility.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\drinks.html",
-      "PackagePath": "staticwebassets\\web\\drinks.html"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\css\\bootstrap\\utilities\\_stretched-link.css",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap\\utilities\\_stretched-link.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\events.html",
-      "PackagePath": "staticwebassets\\web\\events.html"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\css\\style.css",
+      "PackagePath": "staticwebassets\\login\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\faqs.html",
-      "PackagePath": "staticwebassets\\web\\faqs.html"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\login\\fonts\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\fonts\\FontAwesome.otf",
-      "PackagePath": "staticwebassets\\web\\fonts\\FontAwesome.otf"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\login\\images\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\fonts\\fontawesome-webfont.eot",
-      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.eot"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\index.html",
+      "PackagePath": "staticwebassets\\login\\index.html"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\fonts\\fontawesome-webfont.svg",
-      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.svg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\login\\js\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\fonts\\fontawesome-webfont.ttf",
-      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.ttf"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\login\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\fonts\\fontawesome-webfont.woff",
-      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.woff"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\login\\js\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.woff",
-      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.woff"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\js\\main.js",
+      "PackagePath": "staticwebassets\\login\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.woff2",
-      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.woff2"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\js\\popper.js",
+      "PackagePath": "staticwebassets\\login\\js\\popper.js"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\frozen.html",
-      "PackagePath": "staticwebassets\\web\\frozen.html"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\main.html",
+      "PackagePath": "staticwebassets\\login\\main.html"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\household.html",
-      "PackagePath": "staticwebassets\\web\\household.html"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\login\\scss\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\1.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\1.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\1.png",
-      "PackagePath": "staticwebassets\\web\\images\\1.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\10.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\10.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\10.png",
-      "PackagePath": "staticwebassets\\web\\images\\10.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\11.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\11.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_button-group.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\11.png",
-      "PackagePath": "staticwebassets\\web\\images\\11.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\12.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\12.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_card.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\12.png",
-      "PackagePath": "staticwebassets\\web\\images\\12.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_carousel.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\13.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\13.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_close.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\13.png",
-      "PackagePath": "staticwebassets\\web\\images\\13.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_code.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\14.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\14.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_custom-forms.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\14.png",
-      "PackagePath": "staticwebassets\\web\\images\\14.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\15.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\15.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\15.png",
-      "PackagePath": "staticwebassets\\web\\images\\15.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_functions.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\16.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\16.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\16.png",
-      "PackagePath": "staticwebassets\\web\\images\\16.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_images.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\17.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\17.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_input-group.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\17.png",
-      "PackagePath": "staticwebassets\\web\\images\\17.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_jumbotron.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\18.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\18.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\18.png",
-      "PackagePath": "staticwebassets\\web\\images\\18.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_media.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\19.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\19.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\19.png",
-      "PackagePath": "staticwebassets\\web\\images\\19.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_modal.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\2.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\2.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_nav.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\2.png",
-      "PackagePath": "staticwebassets\\web\\images\\2.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_navbar.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\20.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\20.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\20.png",
-      "PackagePath": "staticwebassets\\web\\images\\20.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_popover.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\21.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\21.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_print.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\21.png",
-      "PackagePath": "staticwebassets\\web\\images\\21.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_progress.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\22.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\22.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_reboot.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\22.png",
-      "PackagePath": "staticwebassets\\web\\images\\22.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_root.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\23.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\23.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_spinners.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\23.png",
-      "PackagePath": "staticwebassets\\web\\images\\23.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_tables.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\24.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\24.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_toasts.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\24.png",
-      "PackagePath": "staticwebassets\\web\\images\\24.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_tooltip.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\25.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\25.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_transitions.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\25.png",
-      "PackagePath": "staticwebassets\\web\\images\\25.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_type.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\26.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\26.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\26.png",
-      "PackagePath": "staticwebassets\\web\\images\\26.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\27.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\27.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\bootstrap-grid.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\27.png",
-      "PackagePath": "staticwebassets\\web\\images\\27.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\bootstrap-reboot.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\28.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\28.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\28.png",
-      "PackagePath": "staticwebassets\\web\\images\\28.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\29.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\29.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_background-variant.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\29.png",
-      "PackagePath": "staticwebassets\\web\\images\\29.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\3.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\3.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\3.png",
-      "PackagePath": "staticwebassets\\web\\images\\3.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\30.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\30.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\30.png",
-      "PackagePath": "staticwebassets\\web\\images\\30.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\31.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\31.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_caret.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\31.png",
-      "PackagePath": "staticwebassets\\web\\images\\31.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\32.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\32.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\32.png",
-      "PackagePath": "staticwebassets\\web\\images\\32.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_float.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\33.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\33.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\33.png",
-      "PackagePath": "staticwebassets\\web\\images\\33.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_gradients.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\34.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\34.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_grid-framework.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\34.png",
-      "PackagePath": "staticwebassets\\web\\images\\34.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\35.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\35.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_hover.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\35.png",
-      "PackagePath": "staticwebassets\\web\\images\\35.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_image.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\36.png",
-      "PackagePath": "staticwebassets\\web\\images\\36.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\37.png",
-      "PackagePath": "staticwebassets\\web\\images\\37.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_lists.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\38.png",
-      "PackagePath": "staticwebassets\\web\\images\\38.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_nav-divider.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\39.png",
-      "PackagePath": "staticwebassets\\web\\images\\39.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\4.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\4.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\4.png",
-      "PackagePath": "staticwebassets\\web\\images\\4.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_resize.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\40.png",
-      "PackagePath": "staticwebassets\\web\\images\\40.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_screen-reader.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\41.png",
-      "PackagePath": "staticwebassets\\web\\images\\41.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_size.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\42.png",
-      "PackagePath": "staticwebassets\\web\\images\\42.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_table-row.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\43.png",
-      "PackagePath": "staticwebassets\\web\\images\\43.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\44.png",
-      "PackagePath": "staticwebassets\\web\\images\\44.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_text-hide.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\45.png",
-      "PackagePath": "staticwebassets\\web\\images\\45.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\46.png",
-      "PackagePath": "staticwebassets\\web\\images\\46.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_transition.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\47.png",
-      "PackagePath": "staticwebassets\\web\\images\\47.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_visibility.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\48.png",
-      "PackagePath": "staticwebassets\\web\\images\\48.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_align.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\49.png",
-      "PackagePath": "staticwebassets\\web\\images\\49.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_background.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\5.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\5.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_borders.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\5.png",
-      "PackagePath": "staticwebassets\\web\\images\\5.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\50.png",
-      "PackagePath": "staticwebassets\\web\\images\\50.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_display.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\51.png",
-      "PackagePath": "staticwebassets\\web\\images\\51.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_embed.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\52.png",
-      "PackagePath": "staticwebassets\\web\\images\\52.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_flex.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\53.png",
-      "PackagePath": "staticwebassets\\web\\images\\53.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_float.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\54.png",
-      "PackagePath": "staticwebassets\\web\\images\\54.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_overflow.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\55.png",
-      "PackagePath": "staticwebassets\\web\\images\\55.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_position.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\56.png",
-      "PackagePath": "staticwebassets\\web\\images\\56.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_screenreaders.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\57.png",
-      "PackagePath": "staticwebassets\\web\\images\\57.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_shadows.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\58.png",
-      "PackagePath": "staticwebassets\\web\\images\\58.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_sizing.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\59.png",
-      "PackagePath": "staticwebassets\\web\\images\\59.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_spacing.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\6.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\6.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_stretched-link.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\6.png",
-      "PackagePath": "staticwebassets\\web\\images\\6.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_text.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\60.png",
-      "PackagePath": "staticwebassets\\web\\images\\60.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_visibility.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\61.png",
-      "PackagePath": "staticwebassets\\web\\images\\61.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\vendor\\_rfs.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\62.png",
-      "PackagePath": "staticwebassets\\web\\images\\62.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\login\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\style.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\63.png",
-      "PackagePath": "staticwebassets\\web\\images\\63.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\.DS_Store",
+      "PackagePath": "staticwebassets\\navbar\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\64.png",
-      "PackagePath": "staticwebassets\\web\\images\\64.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\navbar\\css\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\65.png",
-      "PackagePath": "staticwebassets\\web\\images\\65.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\navbar\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\66.png",
-      "PackagePath": "staticwebassets\\web\\images\\66.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\navbar\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\67.png",
-      "PackagePath": "staticwebassets\\web\\images\\67.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\css\\bootstrap\\_media.css",
+      "PackagePath": "staticwebassets\\navbar\\css\\bootstrap\\_media.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\68.png",
-      "PackagePath": "staticwebassets\\web\\images\\68.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\navbar\\css\\bootstrap\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\69.png",
-      "PackagePath": "staticwebassets\\web\\images\\69.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\css\\bootstrap\\mixins\\_badge.css",
+      "PackagePath": "staticwebassets\\navbar\\css\\bootstrap\\mixins\\_badge.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\7.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\7.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\css\\bootstrap\\mixins\\_box-shadow.css",
+      "PackagePath": "staticwebassets\\navbar\\css\\bootstrap\\mixins\\_box-shadow.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\7.png",
-      "PackagePath": "staticwebassets\\web\\images\\7.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\css\\bootstrap\\mixins\\_buttons.css",
+      "PackagePath": "staticwebassets\\navbar\\css\\bootstrap\\mixins\\_buttons.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\70.png",
-      "PackagePath": "staticwebassets\\web\\images\\70.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\css\\bootstrap\\mixins\\_float.css",
+      "PackagePath": "staticwebassets\\navbar\\css\\bootstrap\\mixins\\_float.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\71.png",
-      "PackagePath": "staticwebassets\\web\\images\\71.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\css\\bootstrap\\mixins\\_nav-divider.css",
+      "PackagePath": "staticwebassets\\navbar\\css\\bootstrap\\mixins\\_nav-divider.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\72.png",
-      "PackagePath": "staticwebassets\\web\\images\\72.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\css\\bootstrap\\mixins\\_reset-text.css",
+      "PackagePath": "staticwebassets\\navbar\\css\\bootstrap\\mixins\\_reset-text.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\73.png",
-      "PackagePath": "staticwebassets\\web\\images\\73.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\css\\bootstrap\\mixins\\_text-emphasis.css",
+      "PackagePath": "staticwebassets\\navbar\\css\\bootstrap\\mixins\\_text-emphasis.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\74.png",
-      "PackagePath": "staticwebassets\\web\\images\\74.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\css\\bootstrap\\mixins\\_text-hide.css",
+      "PackagePath": "staticwebassets\\navbar\\css\\bootstrap\\mixins\\_text-hide.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\75.png",
-      "PackagePath": "staticwebassets\\web\\images\\75.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\css\\bootstrap\\mixins\\_transition.css",
+      "PackagePath": "staticwebassets\\navbar\\css\\bootstrap\\mixins\\_transition.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\76.png",
-      "PackagePath": "staticwebassets\\web\\images\\76.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\css\\bootstrap\\utilities\\_stretched-link.css",
+      "PackagePath": "staticwebassets\\navbar\\css\\bootstrap\\utilities\\_stretched-link.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\8.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\8.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\navbar\\css\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\8.png",
-      "PackagePath": "staticwebassets\\web\\images\\8.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\css\\style.css",
+      "PackagePath": "staticwebassets\\navbar\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\9.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\9.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\navbar\\fonts\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\9.png",
-      "PackagePath": "staticwebassets\\web\\images\\9.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\fonts\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\navbar\\fonts\\icomoon\\Read Me.txt"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\arrow.png",
-      "PackagePath": "staticwebassets\\web\\images\\arrow.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\fonts\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\navbar\\fonts\\icomoon\\demo-files\\demo.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\besiktas.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\besiktas.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\fonts\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\navbar\\fonts\\icomoon\\demo-files\\demo.js"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\card.png",
-      "PackagePath": "staticwebassets\\web\\images\\card.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\fonts\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\navbar\\fonts\\icomoon\\demo.html"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\cart.png",
-      "PackagePath": "staticwebassets\\web\\images\\cart.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\navbar\\fonts\\icomoon\\fonts\\icomoon.eot"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\close_1.png",
-      "PackagePath": "staticwebassets\\web\\images\\close_1.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\navbar\\fonts\\icomoon\\fonts\\icomoon.svg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\fenerbahce.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\fenerbahce.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\navbar\\fonts\\icomoon\\fonts\\icomoon.ttf"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\gs.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\gs.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\navbar\\fonts\\icomoon\\fonts\\icomoon.woff"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\img-sp.png",
-      "PackagePath": "staticwebassets\\web\\images\\img-sp.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\navbar\\fonts\\icomoon\\selection.json"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\offer.png",
-      "PackagePath": "staticwebassets\\web\\images\\offer.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\fonts\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\navbar\\fonts\\icomoon\\style.css"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\paypal.png",
-      "PackagePath": "staticwebassets\\web\\images\\paypal.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\navbar\\images\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\sakarya.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\sakarya.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\images\\adam.png",
+      "PackagePath": "staticwebassets\\navbar\\images\\adam.png"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\sakarya1.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\sakarya1.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\images\\hero_1.jpg",
+      "PackagePath": "staticwebassets\\navbar\\images\\hero_1.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\sakarya2.jpg",
-      "PackagePath": "staticwebassets\\web\\images\\sakarya2.jpg"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\images\\hero_3.jpg",
+      "PackagePath": "staticwebassets\\navbar\\images\\hero_3.jpg"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\star.png",
-      "PackagePath": "staticwebassets\\web\\images\\star.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\index.html",
+      "PackagePath": "staticwebassets\\navbar\\index.html"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\star1.png",
-      "PackagePath": "staticwebassets\\web\\images\\star1.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\navbar\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\images\\tag.png",
-      "PackagePath": "staticwebassets\\web\\images\\tag.png"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\navbar\\js\\jquery-3.3.1.min.js"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\index.html",
-      "PackagePath": "staticwebassets\\web\\index.html"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\navbar\\js\\jquery.sticky.js"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\web\\js\\bootstrap.min.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\js\\main.js",
+      "PackagePath": "staticwebassets\\navbar\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\js\\counterup.min.js",
-      "PackagePath": "staticwebassets\\web\\js\\counterup.min.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\navbar\\js\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\js\\creditly.js",
-      "PackagePath": "staticwebassets\\web\\js\\creditly.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\navbar\\js\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\js\\easing.js",
-      "PackagePath": "staticwebassets\\web\\js\\easing.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\main.html",
+      "PackagePath": "staticwebassets\\navbar\\main.html"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\js\\easyResponsiveTabs.js",
-      "PackagePath": "staticwebassets\\web\\js\\easyResponsiveTabs.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\navbar\\scss\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\js\\jquery-1.11.1.min.js",
-      "PackagePath": "staticwebassets\\web\\js\\jquery-1.11.1.min.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\js\\jquery.flexslider.js",
-      "PackagePath": "staticwebassets\\web\\js\\jquery.flexslider.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\js\\jquery.wmuSlider.js",
-      "PackagePath": "staticwebassets\\web\\js\\jquery.wmuSlider.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\js\\minicart.js",
-      "PackagePath": "staticwebassets\\web\\js\\minicart.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_button-group.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\js\\move-top.js",
-      "PackagePath": "staticwebassets\\web\\js\\move-top.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\js\\okzoom.js",
-      "PackagePath": "staticwebassets\\web\\js\\okzoom.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_card.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\js\\waypoints.min.js",
-      "PackagePath": "staticwebassets\\web\\js\\waypoints.min.js"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_carousel.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\kitchen.html",
-      "PackagePath": "staticwebassets\\web\\kitchen.html"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_close.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\login.html",
-      "PackagePath": "staticwebassets\\web\\login.html"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_code.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\mail.html",
-      "PackagePath": "staticwebassets\\web\\mail.html"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_custom-forms.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\payment.html",
-      "PackagePath": "staticwebassets\\web\\payment.html"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\pet.html",
-      "PackagePath": "staticwebassets\\web\\pet.html"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\privacy.html",
-      "PackagePath": "staticwebassets\\web\\privacy.html"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_functions.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\products.html",
-      "PackagePath": "staticwebassets\\web\\products.html"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\services.html",
-      "PackagePath": "staticwebassets\\web\\services.html"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_images.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\short-codes.html",
-      "PackagePath": "staticwebassets\\web\\short-codes.html"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_input-group.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\single.html",
-      "PackagePath": "staticwebassets\\web\\single.html"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_jumbotron.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\vegetables.html",
-      "PackagePath": "staticwebassets\\web\\vegetables.html"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\web\\w3layouts-License.txt",
-      "PackagePath": "staticwebassets\\web\\w3layouts-License.txt"
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\navbar\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\navbar\\scss\\style.scss"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.takim1.props",

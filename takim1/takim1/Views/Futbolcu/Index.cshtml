@@ -38,11 +38,11 @@
                     <td>@m.Takim.TakimAdi</td>
                     @*<td>@m.KtgDurum</td>*@
                     <td> <a href=""><button class="btn btn-sm btn-outline-primary ">Detay</button> </td>
-                    <td> <a href="/Futbolcu/FutbolcuGet/@m.FutbolcuId"><button class="btn btn-sm btn-info">Guncelle</button> </td>
-                    <td> <a href="/Futbolcu/FutbolcuSil/@m.FutbolcuId"><button class="btn btn-sm btn-danger">Sil</button> </a> </td>
+                    <td> <a href="/Futbolcu/FutbolcuGet/@m.FutbolcuId"><button class="btn btnGuncelle">Guncelle</button> </td>
+                    <td> <a href="/Futbolcu/FutbolcuSil/@m.FutbolcuId"><button class="btn btnSil">Sil</button> </a> </td>
                 </tr>
         }
     </tbody>
 </table>
 @Html.PagedListPager((IPagedList)Model,page => Url.Action("Index",new {page}))
-<a asp-action="FutbolcuEkle" asp-controller="Futbolcu"><button class="btn btn-sm btn-outline-success ">Futbolcu Ekle</button> </a>
+<a asp-action="FutbolcuEkle" asp-controller="Futbolcu"><button class="btn btnEkle ">Futbolcu Ekle</button> </a>

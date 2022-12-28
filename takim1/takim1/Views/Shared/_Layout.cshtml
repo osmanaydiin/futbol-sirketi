@@ -7,27 +7,24 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/css/site.css" />
 </head>
 <body>
 
-    <nav class="navbar navbar-inverse">
-        <div class="container-fluid">
-            <div class="navbar-header">
-                <a class="navbar-brand" href="#">Oyuncum</a>
+    <div class="header">
+        <div class="header-ic">
+            <div class="admin-header">
+                    <a href="/Kullanici/Index/">Kullanıcılar</a>
+                    <a href="/Takim/Index/">Takımlar</a>
+                    <a href="/Futbolcu/Index/">Futbolcular</a>
+                    <a href="/TeknikDirektor/Index/">Teknik Direktörler</a>
+                    <a href="/Giris/Index" class="btn btn-lg"><span class="glyphicon glyphicon-log-out"></span>Çıkış</a>
             </div>
-            <ul class="nav navbar-nav">
-                <li><a href="/Kullanici/Index/">Kullanicilar</a></li>
-                <li><a href="/Takim/Index/">Takımlar</a></li>
-                <li><a href="/Futbolcu/Index/">Futbolcular</a></li>
-                <li><a href="/TeknikDirektor/Index/">Teknik Direktörler</a></li>
-                <li><a href="">Ayarlar</a></li>
-            </ul>
-            <ul class="nav navbar-nav navbar-right">
-                @*<li><a href="#"><span class="glyphicon glyphicon-user"></span> Giriş</a></li>*@
-                <li><a href="/Giris/CikisYap"><span class="glyphicon glyphicon-log-in"></span>Çıkış</a></li>
-            </ul>
         </div>
-    </nav>
+    </div>
+    
 
     <div class="container">
         @RenderBody()
