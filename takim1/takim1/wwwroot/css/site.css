@@ -98,28 +98,63 @@ body {
     background-color: lightgreen;
     color: white;
 }
-.futbolcu-kartlar{
-    display:flex;
-    flex-direction:row;
-    align-items:center;
-    flex-wrap:wrap;
+.ana-takim-karti {
+/*  position: relative;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: bottom;
+    background-image: url("../img/arkaplan.jpg");*/
+    margin-top:150px;
     width:80%;
-    justify-content:space-around;
-    margin-left:auto;
-    margin-right:auto;
-}
-.futbolcu-kart{
-    display:flex;
-    flex-direction:column;
-    width:200px;
-    height:450px;
-}
-.futbolcu-kart
-.futbolcu-kart img{
-    width:120px;
-    height:100px;
     margin-right:auto;
     margin-left:auto;
+}
+.takim-karti {
+    border: 3px #49B6CA solid;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 37rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:80px;
+    margin-bottom:150px;
+    font-size:18px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.takim-kart-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 5px;
+}
+.takim-kart-right {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.takim-kart-right b{
+    color:darkgreen;
+    font-size:22px;
+}
+.takim-kart-left{
+    margin-right:50px;
+}
+.takim-kart-adi {
+    font-size: 35px;
+    margin-bottom:20px;
+    color:darkgreen;
+}
+.ana-takim-karti img {
+    width: 200px;
 }
 @media (min-width: 565px) {
     header {

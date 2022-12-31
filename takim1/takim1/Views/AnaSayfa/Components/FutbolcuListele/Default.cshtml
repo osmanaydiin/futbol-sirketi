@@ -1,0 +1,52 @@
+﻿@model IEnumerable<takim1.Models.Futbolcu>
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<style>
+    .futbolcu-kartlar a{
+        background-color: #019DB6;
+        color:white;
+    }
+    .futbolcu-kartlar a:hover{
+        background-color:darkgreen;
+    }
+</style>
+<div class="futbolcu-kartlar" style="
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    align-items:center;
+    justify-content:space-around;
+    width:80%;
+    margin-right:auto;
+    margin-left:auto;
+">
+    @foreach(var f in Model)
+    {
+        <div class="futbolcu-kart" style="
+            width:17rem;
+            border:1px darkgreen solid;
+            padding-bottom:10px;
+            margin:10px;
+">
+            <div class="list-group">
+                <div class="futbolcuItem"><img class="" style="width:150px;height:120px;" src="@f.FutbolcuResimUrl"></div>
+                <div class="futbolcuItem"><h5 class="card-title">@f.FutbolcuAdi @f.FutbolcuSoyadi</h5></div>
+            </div>
+            <div class="list-group">
+                
+
+                <ul class="list-group">
+                    <li class="list-group-item"><b>Mevki =</b> @f.FutbolcuMevki</li>
+                    <li class="list-group-item"><b>Numara =</b> @f.FutbolcuNumara</li>
+                    <li class="list-group-item"><b>Yas =</b> @f.FutbolcuYas</li>
+                    <li class="list-group-item"><b>Takım Id =</b> @f.TakimId</li>
+                </ul>
+                <div class="">
+                    <a href="#" class="list-group-item futbolcuItem" style="margin-top:10px;" >detay</a>
+                </div>
+            </div>
+        </div>
+    }
+    
+</div>

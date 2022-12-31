@@ -22,7 +22,7 @@ namespace takim1.Controllers
         [HttpPost]
         public async Task<IActionResult> Index(Kullanici p)
         {
-            var veriler = c.Kullanicilar.FirstOrDefault(x => x.KullaniciMail == p.KullaniciMail && x.KullaniciSifre == p.KullaniciSifre);
+            var veriler = c.Kullanicilar.FirstOrDefault(gelenVeri => gelenVeri.KullaniciMail == p.KullaniciMail && gelenVeri.KullaniciSifre == p.KullaniciSifre);
             if(veriler != null)
             {
                 var claims = new List<Claim>
@@ -32,7 +32,14 @@ namespace takim1.Controllers
                 var kullaniciIdentity = new ClaimsIdentity(claims,"giriş"); 
                 ClaimsPrincipal principal= new ClaimsPrincipal(kullaniciIdentity);
                 await HttpContext.SignInAsync(principal);
-                return RedirectToAction("Index","Takim");
+                if(veriler.KullaniciRol == "a")
+                {
+                    return RedirectToAction("Index", "Takim");
+                }
+                else
+                {
+                    return RedirectToAction("Index", "AnaSayfa");
+                }
             }
             return View();
         }

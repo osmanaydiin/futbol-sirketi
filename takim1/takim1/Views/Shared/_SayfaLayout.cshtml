@@ -39,16 +39,13 @@
                         <li><a href="about.html">Futbolcular</a></li>
                         @await Component.InvokeAsync("TakimListele") 
                         <li><a href="blog.html">Teknik Adamlar</a></li>
-
-@*                        <li class="d-lg-none"><a href="post-job.html"><span class="mr-2">+</span> Post a Job</a></li>
-*@                        <li class="d-lg-none"><a href="login.html">Log In</a></li>
+                        
                     </ul>
                 </nav>
 
                 <div class="right-cta-menu text-right d-flex aligin-items-center col-6">
                     <div class="ml-auto">
-@*                        <a href="post-job.html" class="btn btn-outline-white border-width-2 d-none d-lg-inline-block"><span class="mr-2 icon-add"></span>Post a Job</a>
-*@                        <a asp-action="Index" asp-controller="Giris" class="btn btn-primary border-width-2 d-none d-lg-inline-block"><span class="mr-2 icon-lock_outline"></span>Admin Giriş</a>
+                        <a asp-action="CikisYap" asp-controller="Giris" class="btn btn-primary border-width-2 d-none d-lg-inline-block"><span class=""></span>Çıkış Yap</a>
                     </div> 
                     <a href="#" class="site-menu-toggle js-menu-toggle d-inline-block d-xl-none mt-lg-2 ml-3"><span class="icon-menu h3 m-0 p-0 mt-2"></span></a>
                 </div>
@@ -61,56 +58,16 @@
     <div>
         @RenderBody()
     </div>
-    <div class="futbolcu-kartlar">
-        <div class="card futbolcu-kart" style="width: 18rem;">
-            <img class="card-img-top" style="width:150px;height:120px;" src="https://img.a.transfermarkt.technology/portrait/big/336077-1665592010.png?lm=1">
-                <div class="card-body">
-                  <h5 class="card-title">Altay Bayındır</h5>
-@*                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-*@                </div>
-                <ul class="list-group list-group-flush">
-                  <li class="list-group-item">mevkii</li>
-                  <li class="list-group-item">numara</li>
-                  <li class="list-group-item">yas</li>
-                  <li class="list-group-item">takım</li>
-                </ul>
-                <div class="card-body">
-                    <a href="#" class="card-link">detay</a>
-                </div>
-        </div>
-        <div class="futbolcu-kart">
-            <img src="https://img.a.transfermarkt.technology/portrait/big/336077-1665592010.png?lm=1" />
-            <h4>altay bayındır</h4>
-            <h5>mevkii</h5>
-            <h5>numara</h5>
-            <h5>takım</h5>
-            <button>Detay</button>
-        </div>
-        <div class="futbolcu-kart">
-            <img src="https://img.a.transfermarkt.technology/portrait/big/336077-1665592010.png?lm=1" />
-            <h4>altay bayındır</h4>
-            <h5>mevkii</h5>
-            <h5>numara</h5>
-            <h5>takım</h5>
-            <button>Detay</button>
-        </div>
-        <div class="futbolcu-kart">
-            <img src="https://img.a.transfermarkt.technology/portrait/big/336077-1665592010.png?lm=1" />
-            <h4>altay bayındır</h4>
-            <h5>mevkii</h5>
-            <h5>numara</h5>
-            <h5>takım</h5>
-            <button>Detay</button>
-        </div>
-        <div class="futbolcu-kart">
-            <img src="https://img.a.transfermarkt.technology/portrait/big/336077-1665592010.png?lm=1" />
-            <h4>altay bayındır</h4>
-            <h5>mevkii</h5>
-            <h5>numara</h5>
-            <h5>takım</h5>
-            <button>Detay</button>
-        </div>
+    @*takım kartı gorunecek*@
+    
+    
+    
+    @*<div>
+        @await Component.InvokeAsync("FutbolcuListele")
     </div>
+   *@
+   
+ 
 
 
     <script src="~/navbar/js/jquery-3.3.1.min.js"></script>

@@ -5,9 +5,14 @@ namespace takim1.Controllers
 {
     public class AnaSayfaController : Controller
     {
-        [AllowAnonymous]
+        
         public IActionResult Index()
         {
+            return View();
+        }
+        public IActionResult TakimBilgi (int id)
+        {
+            ViewBag.Id = id;
             return View();
         }
     }

@@ -1,5 +1,6 @@
 ﻿using takim1.Models;
 using Microsoft.EntityFrameworkCore;
+using System.Linq.Expressions;
 
 namespace takim1.Repositories
 {
@@ -33,6 +34,10 @@ namespace takim1.Repositories
         public List<T> TList(string p)
         {
             return c.Set<T>().Include(p).ToList();
+        }
+        public List<T> List(Expression<Func<T, bool>> predicate)
+        {
+            return c.Set<T>().Where(predicate).ToList();
         }
     }
 }

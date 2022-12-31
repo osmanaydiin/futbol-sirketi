@@ -16,12 +16,32 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\crazy\Desktop\osman\takim1\takim1
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/crazy/Desktop/osman/takim1/takim1/Views/AnaSayfa/Components/FutbolcuListele/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hU2F5ZmFcQ29tcG9uZW50c1xGdXRib2xjdUxpc3RlbGVcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crazy/Desktop/osman/takim1/takim1/Views/AnaSayfa/Components/TakimFutbolculari/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hU2F5ZmFcQ29tcG9uZW50c1xUYWtpbUZ1dGJvbGN1bGFyaVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crazy/Desktop/osman/takim1/takim1/Views/AnaSayfa/Components/TakimKarti/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hU2F5ZmFcQ29tcG9uZW50c1xUYWtpbUthcnRpXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/crazy/Desktop/osman/takim1/takim1/Views/AnaSayfa/Components/TakimListele/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hU2F5ZmFcQ29tcG9uZW50c1xUYWtpbUxpc3RlbGVcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/crazy/Desktop/osman/takim1/takim1/Views/AnaSayfa/Components/TakimTeknikDirektorleri/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hU2F5ZmFcQ29tcG9uZW50c1xUYWtpbVRla25pa0RpcmVrdG9ybGVyaVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/crazy/Desktop/osman/takim1/takim1/Views/AnaSayfa/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hU2F5ZmFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crazy/Desktop/osman/takim1/takim1/Views/AnaSayfa/TakimBilgi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hU2F5ZmFcVGFraW1CaWxnaS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/crazy/Desktop/osman/takim1/takim1/Views/Futbolcu/FutbolcuEkle.cshtml]

@@ -46,6 +46,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Takim}/{action=Index}/{id?}");
+    pattern: "{controller=Giris}/{action=Index}/{id?}");
 
 app.Run();

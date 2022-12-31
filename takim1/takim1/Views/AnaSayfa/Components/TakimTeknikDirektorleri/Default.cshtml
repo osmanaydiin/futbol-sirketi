@@ -1,0 +1,56 @@
+﻿@model IEnumerable<takim1.Models.TeknikDirektor>
+
+<style>
+    .futbolcu-kartlar a {
+        background-color: #019DB6;
+        color: white;
+    }
+
+    .futbolcu-kartlar a:hover {
+        background-color: darkgreen;
+    }
+</style>
+<a href="#kartlar" style="position:absolute; width:150px; background-color:darkgreen; color:white; box-shadow:white; margin-left:auto; margin-right:auto;">Ayrıntıları Gör</a>
+<p style="font-size:55px; font-weight:700; text-align:center; color:#49B6CA; margin-bottom:30px; ">Teknik Direktörü</p>
+<div id="#kartlar" class="futbolcu-kartlar" style="
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    align-items:center;
+    justify-content:space-around;
+    width:80%;
+    margin-right:auto;
+    margin-left:auto; 
+    margin-bottom:80px;
+">
+    @foreach (var td in Model)
+    {
+        <div class="futbolcu-kart" style="
+            width:17rem;
+            border: 3px #49B6CA solid;
+            border-radius: 10px;
+            padding-bottom:10px;
+            margin:10px;
+">
+            <div class="list-group">
+                <div class="futbolcuItem"><img class="" style="width:150px;height:120px;margin-left:4vw; margin-top:10px;" src="@td.TeknikDirektorResimUrl"></div>
+                <div class="futbolcuItem" style="text-align:center;">
+                    <b style="font-size: 25px; margin-bottom:20px; color:darkgreen;">@td.TeknikDirektorAdi @td.TeknikDirektorSoyadi</b>
+                </div>
+            </div>
+            <div class="list-group" style="text-align:center;">
+
+
+                <ul class="list-group">
+                    <li class="list-group-item" style="font-size:18px; font-weight:600;"><b style="color:darkgreen;">Id =</b> @td.TeknikDirektorId</li>
+                    <li class="list-group-item"><b style="color:darkgreen;">Yaş =</b> @td.TeknikDirektorYas</li>
+                    <li class="list-group-item"><b style="color:darkgreen;">Maaş =</b> @td.TeknikDirektorMaas</li>
+                </ul>
+                <div class="">
+                    <a href="#" class="list-group-item futbolcuItem" style="margin-top:10px;">detay</a>
+                </div>
+            </div>
+        </div>
+    }
+
+</div>
