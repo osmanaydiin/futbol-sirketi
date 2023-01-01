@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Bootstrap Example</title>
+    <title>Layout</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
@@ -9,18 +9,35 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="~/css/site.css" />
+    <script src="~/js/site.js" ></script>
 </head>
 <body>
 
     <div class="header">
         <div class="header-ic">
             <div class="admin-header">
-                    <a href="/Kullanici/Index/">Kullanıcılar</a>
-                    <a href="/Takim/Index/">Takımlar</a>
-                    <a href="/Futbolcu/Index/">Futbolcular</a>
-                    <a href="/TeknikDirektor/Index/">Teknik Direktörler</a>
-                    <a asp-action="CikisYap" asp-controller="Giris" class="btn btn-lg"><span class="glyphicon glyphicon-log-out"></span>Çıkış</a>
+
+                <div class="btn-group dropright">
+                    <button key=0 type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                       Dil Seçiniz
+                    </button>
+                    <div class="dropdown-menu">
+                        <button id="en" key=6 href="#" class="dropdown-item" type="button">English</button>
+                        <button id="tr" key=7 href="#" class="dropdown-item" type="button">Türkçe</button>
+                    </div>
+                </div>
+
+                    <a key=1 href="/Kullanici/Index/">Kullanıcılar</a>
+                    <a key=2 href="/Takim/Index/">Takımlar</a>
+                    <a key=3 href="/Futbolcu/Index/">Futbolcular</a>
+                    <a key=4 href="/TeknikDirektor/Index/">Teknik Direktörler</a>
+                    <a key=5 asp-action="CikisYap" asp-controller="Giris" class="btn btn-lg"><span class="glyphicon glyphicon-log-out"></span>Çıkış</a>
             </div>
         </div>
     </div>

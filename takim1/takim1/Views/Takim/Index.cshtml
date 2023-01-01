@@ -8,18 +8,18 @@
 }
 
 
-<h2>Takımlar</h2>
+<h2 key=2>Takımlar</h2>
 <br />
-<table class="table table-hover table-dark">
+<table class="table table-hover">
     <thead>
         <tr>
             <th scope="col">#</th>
             <th scope="col">Id</th>
-            <th scope="col">Adı</th>
-            <th scope="col">Sampiyonluk</th>
-            <th scope="col">Deger</th>
-            <th scope="col">Kurulus Tarihi</th>
-            <th scope="col">Durum</th>
+            <th scope="col"><span key=8>Adı</span></th>
+            <th scope="col"><span key=22>Sampiyonluk</span></th>
+            <th scope="col"><span key=24>Deger</span></th>
+            <th scope="col"><span key=23>Kurulus Tarihi</span></th>
+            <th scope="col"><span key=25>Durum</span></th>
             <th scope="col"></th>
             <th scope="col"></th>
         </tr>
@@ -32,14 +32,15 @@
                 <td>@m.TakimId</td>
                 <td>@m.TakimAdi</td>
                 <td>@m.TakimSampiyonluk</td>
-                <td>@m.TakimDeger</td>
+                <td>@m.TakimDeger mil. €</td>
                 <td>@m.TakimKurulus</td>
                 <td>@m.TakimDurum</td>
-                <td> <a href="/Takim/TakimGet/@m.TakimId"><button class="btn btnGuncelle">Guncelle</button> </td>
-                <td> <a href="/Takim/TakimSil/@m.TakimId"><button class="btn btnSil">Sil</button> </a> </td>
+                <td> <a href="/Takim/TakimGet/@m.TakimId"><button key=15 class="btn btnGuncelle">Guncelle</button> </td>
+                <td> <a href="/Takim/TakimSil/@m.TakimId"><button key=16 class="btn btnSil">Sil</button> </a> </td>
             </tr>
         }
     </tbody>
 </table>
 @Html.PagedListPager((IPagedList)Model,page => Url.Action("Index",new {page}))
-<a asp-action="TakimEkle" asp-controller="Takim"><button class="btn btnEkle" style="">Takim Ekle</button> </a>
+<a asp-action="TakimEkle" asp-controller="Takim"><button key=26 class="btn btnEkle" style="">Takim Ekle</button> </a>
+                                                         

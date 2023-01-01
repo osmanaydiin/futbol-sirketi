@@ -22,7 +22,7 @@ namespace takim1.Controllers
         [HttpPost]
         public IActionResult TakimEkle(Takim t) 
         {
-             
+            t.TakimDurum = true;
             takimRepository.TAdd(t);
             return RedirectToAction("Index");
         }

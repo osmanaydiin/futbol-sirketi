@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 using takim1.Models;
+using takim1.Repositories;
 
 namespace takim1.Controllers
 {
@@ -49,5 +50,21 @@ namespace takim1.Controllers
             await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
             return RedirectToAction("Index", "AnaSayfa");
         }
-    }
+        [AllowAnonymous]
+		[HttpGet]
+		public IActionResult GiristenKullaniciEkle()
+        {
+            return View();
+		}
+        [AllowAnonymous]
+		[HttpPost]
+		public IActionResult GiristenKullaniciEkle(Kullanici ktg)
+        {
+            KullaniciRepository kullaniciRepository = new KullaniciRepository();
+            ktg.KullaniciRol = "k";
+			kullaniciRepository.TAdd(ktg);
+			return RedirectToAction("Index","Giris");
+		}
+
+	}
 }

@@ -1,0 +1,126 @@
+﻿@model IEnumerable<takim1.Models.TeknikDirektor>
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<style>
+    .futbolcu-detay {
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 150px;
+        border: 5px darkgreen solid;
+        border-radius: 20px;
+        background-color: white;
+        display: flex;
+        flex-direction: column;
+        font-size: 22px;
+    }
+
+    .futbolcu-detay-row {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .futbolcu-detay-row-sol img {
+        width: 18rem;
+        margin-right: 20px;
+        border: 1px darkgreen solid;
+        padding: 5px;
+        border-radius: 10px;
+    }
+
+    .futbolcu-detay-row-sag {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        width: 60%;
+        margin-left: 20px;
+    }
+
+    .futbolcu-detay-adsoyad {
+        font-size: 50px;
+        font-weight: 700;
+        color: darkgreen;
+        margin-bottom: 25px;
+    }
+
+    .futbolcu-detay-digerleri {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 25px;
+        font-size: 30px;
+        text-align: left;
+    }
+
+    .baslik {
+        color: darkgreen;
+        font-size: 30px;
+        font-weight: 600;
+    }
+
+
+
+    .futbolcu-detay-gecmis {
+        margin-top: 80px;
+        margin-bottom:80px;
+        font-size: 45px;
+        font-weight: 700;
+        color: darkgreen;
+        text-align: center;
+    }
+
+    .futbolcu-detay-gecmis-icerik {
+        margin-top: 20px;
+        width: 75%;
+        font-size: 20px;
+        color: black;
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom:80px;
+    }
+
+</style>
+
+@foreach (var ft in Model)
+{
+    <div class="futbolcu-detay">
+
+        <div class="futbolcu-detay-row">
+
+            <div class="futbolcu-detay-row-sol">
+                <img src="@ft.TeknikDirektorResimUrl" />
+            </div>
+
+            <div class="futbolcu-detay-row-sag">
+
+                <div class="futbolcu-detay-adsoyad">
+                    @ft.TeknikDirektorAdi @ft.TeknikDirektorSoyadi
+                </div>
+
+                <div class="futbolcu-detay-digerleri">                    
+                        <span><span class="baslik">Yaş : </span>@ft.TeknikDirektorYas</span>
+                        <span><span class="baslik">Maaş : </span>@ft.TeknikDirektorMaas</span>
+                        <span><span class="baslik">TakımId : </span>@ft.TakimId</span>
+                </div>
+            </div>
+             
+        </div>
+    </div>
+
+    <div class="futbolcu-detay">
+        <span class="futbolcu-detay-gecmis">Geçmişi</span>
+        <p class="futbolcu-detay-gecmis-icerik">
+            @ft.TeknikDirektorGecmis
+        </p>
+    </div>
+}

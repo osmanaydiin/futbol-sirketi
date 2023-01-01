@@ -5,7 +5,7 @@
 @{
 }
 
-<h2>futbolcu ekle</h2>
+<h2 key=21>futbolcu güncelle</h2>
 <br />
 
 @using (Html.BeginForm("FutbolcuGuncelle", "Futbolcu", FormMethod.Post))
@@ -43,5 +43,5 @@
     @Html.LabelFor(x=>x.FutbolcuResimUrl);
     @Html.TextBoxFor(x=>x.FutbolcuResimUrl , new {@class="form-control"});
     <br />
-    <button>ekle</button>
+    <button key=15 >güncelle</button>
 }

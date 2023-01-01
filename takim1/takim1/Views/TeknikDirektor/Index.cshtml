@@ -8,18 +8,18 @@
 }
 
 
-<h2>TeknikDirektorlar</h2>
+<h2 key=4 >Teknik Direktörler</h2>
 <br />
 <table class="table table-hover">
     <thead>
         <tr>
             <th scope="col">#</th>
             <th scope="col">Id</th>
-            <th scope="col">Adı</th>
-            <th scope="col">Soyadı</th>
-            <th scope="col">Yas</th>
-            <th scope="col">Takımı</th>
-            <th scope="col">Maas</th>
+            <th scope="col"><span key=8>Adı</span></th>
+            <th scope="col"><span key =9>Soyadı</span></th>
+            <th scope="col"><span key=10>Yaş</span></th>
+            <th scope="col"><span key=11>Takımı</span></th>
+            <th scope="col"><span key=12>Maaş</span></th>
             <th scope="col"></th>
             <th scope="col"></th>
         </tr>
@@ -34,13 +34,12 @@
                 <td>@m.TeknikDirektorSoyadi</td>
                 <td>@m.TeknikDirektorYas</td>
                 <td>@m.Takim.TakimAdi</td>
-                <td>@m.TeknikDirektorMaas</td>
-                <td> <a href=""><button class="btn btn-sm btn-outline-primary ">Detay</button> </td>
-                <td> <a href="/TeknikDirektor/TeknikDirektorGet/@m.TeknikDirektorId"><button class="btn btnGuncelle">Guncelle</button> </td>
-                <td> <a href="/TeknikDirektor/TeknikDirektorSil/@m.TeknikDirektorId"><button class="btn btnSil">Sil</button> </a> </td>
+                <td>@m.TeknikDirektorMaas mil. €</td>
+                <td> <a href="/TeknikDirektor/TeknikDirektorGet/@m.TeknikDirektorId"><button key=15 class="btn btnGuncelle">Guncelle</button> </td>
+                <td> <a href="/TeknikDirektor/TeknikDirektorSil/@m.TeknikDirektorId"><button key=16 class="btn btnSil">Sil</button> </a> </td>
             </tr>
         }
     </tbody>
 </table>
 @Html.PagedListPager((IPagedList)Model,page => Url.Action("Index",new {page}))
-<a asp-action="TeknikDirektorEkle" asp-controller="TeknikDirektor"><button class="btn btnEkle">TeknikDirektor Ekle</button> </a>
+<a asp-action="TeknikDirektorEkle" asp-controller="TeknikDirektor"><button key=14 class="btn btnEkle">Teknik Direktor Ekle</button> </a>

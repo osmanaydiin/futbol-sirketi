@@ -10,7 +10,6 @@
         background-color: darkgreen;
     }
 </style>
-<a href="#kartlar" style="position:absolute; width:150px; background-color:darkgreen; color:white; box-shadow:white; margin-left:auto; margin-right:auto;">Ayrıntıları Gör</a>
 <p style="font-size:55px; font-weight:700; text-align:center; color:#49B6CA; margin-bottom:30px; ">Teknik Direktörü</p>
 <div id="#kartlar" class="futbolcu-kartlar" style="
     display:flex;
@@ -40,15 +39,15 @@
             </div>
             <div class="list-group" style="text-align:center;">
 
-
                 <ul class="list-group">
-                    <li class="list-group-item" style="font-size:18px; font-weight:600;"><b style="color:darkgreen;">Id =</b> @td.TeknikDirektorId</li>
                     <li class="list-group-item"><b style="color:darkgreen;">Yaş =</b> @td.TeknikDirektorYas</li>
-                    <li class="list-group-item"><b style="color:darkgreen;">Maaş =</b> @td.TeknikDirektorMaas</li>
+                    <li class="list-group-item"><b style="color:darkgreen;">Maaş =</b> @td.TeknikDirektorMaas mil. €</li>
                 </ul>
+
                 <div class="">
-                    <a href="#" class="list-group-item futbolcuItem" style="margin-top:10px;">detay</a>
+                    <a href="~/AnaSayfa/TeknikDirektorDetay/@td.TeknikDirektorId" class="list-group-item futbolcuItem" style="margin-top:10px;">detay</a>
                 </div>
+
             </div>
         </div>
     }

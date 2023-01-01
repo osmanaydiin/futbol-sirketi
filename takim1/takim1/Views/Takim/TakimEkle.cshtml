@@ -4,7 +4,7 @@
 *@
 @{
 }
-<h2>Takım Ekle</h2>
+<h2 key =26 >Takım Ekle</h2>
 <br />
 
 @using (Html.BeginForm("TakimEkle", "Takim", FormMethod.Post))
@@ -24,6 +24,7 @@
     <br />
     @Html.Label("Takımın Resmi");
     @Html.TextBoxFor(x=>x.TakimResimUrl , new {@class="form-control"});
+    
     <br />
-    <button>ekle</button>
+    <button key=17 >ekle</button>
 }

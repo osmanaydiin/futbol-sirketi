@@ -15,5 +15,25 @@ namespace takim1.Controllers
             ViewBag.Id = id;
             return View();
         }
-    }
+        public IActionResult Futbolcular()
+        {
+            return View();
+        }
+        public IActionResult TeknikDirektorler()
+        {
+            return View();
+        }
+		public IActionResult FutbolcuDetay(int id)
+		{
+			ViewBag.Id = id;
+			return View();
+		}
+		public IActionResult TeknikDirektorDetay(int id)
+		{
+			ViewBag.Id = id;
+			return View();
+		}
+
+
+	}
 }

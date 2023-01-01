@@ -156,6 +156,7 @@ body {
 .ana-takim-karti img {
     width: 200px;
 }
+
 @media (min-width: 565px) {
     header {
         height:250px;

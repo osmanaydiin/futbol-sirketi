@@ -13,9 +13,12 @@
 <li class="has-children">
   <a href="/AnaSayfa/Index">Takımlar</a>
   <ul class="dropdown">
-    @foreach(var nesne in Model)
-	{
-		<li><a href="/AnaSayfa/TakimBilgi/@nesne.TakimId">@nesne.TakimAdi</a></li>
-	}
+		@foreach(var nesne in Model)
+		{
+			@if(nesne.TakimDurum)
+			{
+				<li><a href="/AnaSayfa/TakimBilgi/@nesne.TakimId">@nesne.TakimAdi</a></li>
+			}
+		}
   </ul>
 </li>
