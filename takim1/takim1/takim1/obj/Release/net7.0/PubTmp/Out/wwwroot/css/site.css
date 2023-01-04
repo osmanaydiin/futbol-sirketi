@@ -1,0 +1,159 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.header{
+    width:98.9vw;
+    background-color:darkgreen;
+    color:white;
+    height:110px;
+}
+.ana-header-ic {
+    width: 80%;
+    padding-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    justify-content:center;
+}
+.ana-conatiner{
+    width:80vw;
+    margin-left:auto;
+    margin-right:auto;
+}
+.header-ic {
+    width: 75%;
+    padding-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap-reverse;
+}
+.btn{
+    background-color:darkgreen;
+    color:white;
+}
+
+.admin-header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+}
+.header a{
+    color:white;
+    text-decoration:none;
+    padding-right:20px;
+}
+.header a:hover{
+    background-color:white;
+    color:darkgreen;
+    border-radius:3px;
+    font-size:20px;
+    padding:2px;
+    margin:2px;
+}
+.btn:hover{
+    background-color:darkgreen;
+    color:white;
+}
+.btnGuncelle:hover {
+    border-color: white;
+    background-color: white;
+    color: darkgreen;
+}
+
+.btnSil:hover {
+    border-color: black;
+    background-color: black;
+    color: white;
+}
+
+.btnEkle:hover {
+    border-color: lightgreen;
+    background-color: lightgreen;
+    color: white;
+}
+.ana-takim-karti {
+    margin-top:150px;
+    width:80%;
+    margin-right:auto;
+    margin-left:auto;
+}
+.takim-karti {
+    border: 3px #49B6CA solid;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 37rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:80px;
+    margin-bottom:150px;
+    font-size:18px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.takim-karti:hover{
+    border-color:darkgreen;
+}
+.takim-kart-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 5px;
+}
+.takim-kart-right {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.takim-kart-right b{
+    color:darkgreen;
+    font-size:22px;
+}
+.takim-kart-left{
+    margin-right:50px;
+}
+.takim-kart-adi {
+    font-size: 35px;
+    margin-bottom:20px;
+    color:darkgreen;
+}
+.ana-takim-karti img {
+    width: 200px;
+}
+
+@media (min-width: 565px) {
+    header {
+        height:250px;
+    }
+}

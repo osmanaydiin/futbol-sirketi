@@ -1,0 +1,92 @@
+﻿@model IEnumerable<takim1.Models.Futbolcu>
+<style>
+    .futbolcu-kartlar a{
+        background-color: #019DB6;
+        color:white;
+    }
+
+    .futbolcu-kartlar {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-around;
+        width: 80%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .futbolcu-kartlar a:hover{
+        background-color:darkgreen;
+    }
+    .futbolcu-kart{
+        width: 17rem;
+        border: 3px #49B6CA solid;
+        border-radius: 10px;
+        padding-bottom: 10px;
+        margin: 10px;
+        margin-bottom: 30px;
+    }
+    .futbolcu-kart:hover {
+        border-color:darkgreen;
+        
+    }
+
+    .futbolcuItem a {
+        font-size: 25px;
+        margin-bottom: 20px;
+        color: #43B6CA;
+        background-color: white;
+    }
+
+    .futbolcuItem a:hover {
+        font-size: 30px;
+        color: white;
+        background-color: darkgreen;
+        border-radius: 3px;
+        padding: 3px;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    .list-group-item b{
+        color: darkgreen;
+    }
+
+    .futbolcuItem{
+        text-align: center;
+    }
+    .futbolcuItem img{
+        width: 150px;
+        height: 120px;
+        margin-left:auto;
+        margin-right:auto;
+        margin-top: 10px;
+    }
+</style>
+<p style="font-size:55px; font-weight:700; text-align:center; color:#49B6CA;">Futbolcuları</p>
+<div class="futbolcu-kartlar">
+    @foreach (var f in Model)
+    {
+        <div class="futbolcu-kart">
+            <div class="list-group">
+                <div class="futbolcuItem"><img class="" src="@f.FutbolcuResimUrl"></div>
+                <div class="futbolcuItem">
+                    <a href="~/AnaSayfa/FutbolcuDetay/@f.FutbolcuId">@f.FutbolcuAdi @f.FutbolcuSoyadi</a>
+                </div>
+            </div>
+            <div class="list-group" style="text-align:center;">
+
+
+                <ul class="list-group">
+                    <li class="list-group-item"><b>Mevki =</b> @f.FutbolcuMevki</li>
+                    <li class="list-group-item"><b>Numara =</b> @f.FutbolcuNumara</li>
+                    <li class="list-group-item"><b>Yas =</b> @f.FutbolcuYas</li>
+                    <li class="list-group-item"><b>Takım Id =</b> @f.TakimId</li>
+                </ul>
+                <div class="">
+                    <a href="~/AnaSayfa/FutbolcuDetay/@f.FutbolcuId" class="list-group-item futbolcuItem" style="margin-top:10px;">detay</a>
+                </div>
+            </div>
+        </div>
+    }
+
+</div>

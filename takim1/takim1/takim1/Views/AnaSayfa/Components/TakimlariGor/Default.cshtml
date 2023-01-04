@@ -1,0 +1,76 @@
+﻿@model IEnumerable<takim1.Models.Takim>
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<style>
+    .ana{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        width:80%;
+        margin-right:auto;
+        margin-left:auto;
+    }
+    .t-kart{
+        display:flex;
+        flex-direction:column;
+        justify-content:center;
+        border:3px darkgreen solid;
+        border-radius:5px;
+        padding-left:5px;
+        padding-right:5px;
+        margin:15px;
+        font-size:20px;
+        width:500px;
+    }
+    .t-kart:hover{
+        border-color:#49B6CA;
+    }
+    .t-kart a{
+        text-align:center;
+        font-size:30px;
+        color:darkgreen;
+    }
+    .t-kart a:hover{
+        color:#49B6CA;
+        font-size:35px;
+    }
+
+    .t-kart-img{
+        width:150px;
+        height:170px;
+    }
+
+</style>
+<p style="margin-top:150px; margin-bottom:50px; font-size:55px; font-weight:700; text-align:center; color:#49B6CA;">Takımlar</p>
+
+<div class="ana">
+    @foreach (var takim in Model)
+    {
+        if (takim.TakimDurum)
+        {
+
+            <div class="t-kart">
+                <a href="/AnaSayfa/TakimBilgi/@takim.TakimId">@takim.TakimAdi</a>
+                <div class="">
+
+                    <div class="takim-kart-row">
+                        <div class="takim-kart-left">
+                            <img class="t-kart-img" src="@takim.TakimResimUrl" />
+                        </div>
+                        <div class="takim-kart-right" style="justify-content:flex-start;" >
+                            <div class="takim-kart-id"><b>Takım ID :</b> @takim.TakimId</div>
+                            <div class="takim-kart-id"><b>Takım Kuruluş : </b>@takim.TakimKurulus</div>
+                            <div class="takim-kart-id"><b>Şampiyonluk Sayısı : </b>@takim.TakimSampiyonluk</div>
+                            <div class="takim-kart-id"><b>Takım Değer : </b>@takim.TakimDeger mil. € </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        }
+    }
+</div>

@@ -1,0 +1,34 @@
+﻿@model takim1.Models.TeknikDirektor
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h2 key=14>Teknik Direktör Ekle</h2>
+<br />
+
+@using (Html.BeginForm("TeknikDirektorEkle", "TeknikDirektor", FormMethod.Post))
+{
+    @Html.LabelFor(x=>x.TeknikDirektorAdi);
+    @Html.TextBoxFor(x=>x.TeknikDirektorAdi , new {@class="form-control"});
+    <br />
+    @Html.LabelFor(x=>x.TeknikDirektorSoyadi);
+    @Html.TextBoxFor(x=>x.TeknikDirektorSoyadi , new {@class="form-control"});
+    <br />
+    @Html.LabelFor(x=>x.TeknikDirektorYas);
+    @Html.TextBoxFor(x=>x.TeknikDirektorYas , new {@class="form-control"});
+    <br />
+    @Html.LabelFor(x=>x.TakimId);
+    @Html.DropDownListFor(x=>x.TakimId ,(List<SelectListItem>)ViewBag.kt1, new {@class="form-control"});
+    <br />
+    @Html.LabelFor(x=>x.TeknikDirektorMaas);
+    @Html.TextBoxFor(x=>x.TeknikDirektorMaas , new {@class="form-control"});
+    <br />
+    @Html.LabelFor(x=>x.TeknikDirektorGecmis);
+    @Html.TextAreaFor(x=>x.TeknikDirektorGecmis , new {@class="form-control"});
+    <br />
+    @Html.LabelFor(x=>x.TeknikDirektorResimUrl);
+    @Html.TextBoxFor(x=>x.TeknikDirektorResimUrl , new {@class="form-control"});
+    <br />
+    <button key=17 >Ekle</button>
+}

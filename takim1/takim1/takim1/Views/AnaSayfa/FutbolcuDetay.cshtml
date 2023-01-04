@@ -1,0 +1,7 @@
+﻿@{
+    ViewData["Title"] = "Futbolcu Detay";
+    Layout = "~/Views/Shared/_SayfaLayout.cshtml";
+}
+
+
+@await Component.InvokeAsync("FutbolcuDetay", new {id=ViewBag.Id});

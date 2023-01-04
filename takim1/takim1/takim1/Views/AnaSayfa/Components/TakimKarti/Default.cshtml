@@ -1,0 +1,31 @@
+﻿@model IEnumerable<takim1.Models.Takim>
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<style>
+    
+
+</style>
+
+<div class="ana-takim-karti">
+    <p style="font-size:55px; font-weight:700; text-align:center; color:#49B6CA;">Takım Kartı</p>
+    @foreach (var takim in Model)
+    {
+        <div class="takim-karti">
+
+            <div class="takim-kart-row">
+                <div class="takim-kart-left">
+                    <img src="@takim.TakimResimUrl" />
+                </div>
+                <div class="takim-kart-right">
+                    <div class="takim-kart-adi"><b style="font-size:37px;">@takim.TakimAdi</b></div>
+                    <div class="takim-kart-id"><b>Takım ID :</b> @takim.TakimId</div>
+                    <div class="takim-kart-id"><b>Takım Kuruluş : </b>@takim.TakimKurulus</div>
+                    <div class="takim-kart-id"><b>Şampiyonluk Sayısı : </b>@takim.TakimSampiyonluk</div>
+                    <div class="takim-kart-id"><b>Takım Değer : </b>@takim.TakimDeger mil. € </div>
+                </div>
+            </div>
+            
+        </div>
+    }   
+</div>

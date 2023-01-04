@@ -1,0 +1,87 @@
+﻿@{
+    Layout = null;
+}
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://fonts.googleapis.com/css?family=Quicksand:400,600,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/navbar/fonts/icomoon/style.css">
+    <link rel="stylesheet" href="~/navbar/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/navbar/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/navbar/css/style.css">
+    <link rel="stylesheet" href="~/css/site.css" />
+    <title>Ana Sayfa</title>
+</head>
+<body>
+
+
+    <div class="site-mobile-menu site-navbar-target">
+        <div class="site-mobile-menu-header">
+            <div class="site-mobile-menu-close mt-3">
+                <span class="icon-close2 js-menu-toggle"></span>
+            </div>
+        </div>
+        <div class="site-mobile-menu-body"></div>
+    </div> <!-- .site-mobile-menu -->
+    <!-- NAVBAR -->
+    <header class="site-navbar mt-3">
+        <div class="container-fluid">
+            <div class="row align-items-center">
+                <div class="site-logo col-6"><a asp-action="Index" asp-controller="AnaSayfa">Futbol Şirketi!</a></div>
+
+                <nav class="mx-auto site-navigation">
+                    <ul class="site-menu js-clone-nav d-none d-xl-block ml-0 pl-0">
+                        <li><a asp-action="Index" asp-controller="AnaSayfa" class="nav-link active">Ana Sayfa</a></li>
+                        
+                        <li><a asp-action="Futbolcular" asp-controller="AnaSayfa">Futbolcular</a></li>
+                        @await Component.InvokeAsync("TakimListele") 
+                        <li><a asp-action="TeknikDirektorler" asp-controller="AnaSayfa">Teknik Adamlar</a></li>
+                        
+                    </ul>
+                </nav>
+
+                <div class="right-cta-menu text-right d-flex aligin-items-center col-6">
+                    <div class="ml-auto">
+                        <a asp-action="CikisYap" asp-controller="Giris" class="btn btn-primary border-width-2 d-none d-lg-inline-block"><span class=""></span>Çıkış Yap</a>
+                    </div> 
+                    <a href="#" class="site-menu-toggle js-menu-toggle d-inline-block d-xl-none mt-lg-2 ml-3"><span class="icon-menu h3 m-0 p-0 mt-2"></span></a>
+                </div>
+
+            </div>
+        </div>
+    </header>
+    <div class="hero" style="position:relative; background-image: url('/navbar/images/adam.png');">
+            
+
+    </div>
+
+    <div>@RenderBody()</div>
+    @*takım kartı gorunecek*@
+    
+    
+    
+    @*<div>
+        @await Component.InvokeAsync("FutbolcuListele")
+    </div>
+   *@
+    <footer class="py-3" style="margin-top:150px;">
+        <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+      <li class="nav-item"><a href="/AnaSayfa/Index" class="nav-link px-2 text-muted">Ana Sayfa</a></li>
+      <li class="nav-item"><a href="/AnaSayfa/Futbolcular" class="nav-link px-2 text-muted">Futbolcular</a></li>
+      <li class="nav-item"><a href="/AnaSayfa/Takimlar" class="nav-link px-2 text-muted">Takımlar</a></li>
+      <li class="nav-item"><a href="/AnaSayfa/TeknikDirektorler" class="nav-link px-2 text-muted">Teknik Adamlar</a></li>
+    </ul>
+    <p class="text-center text-muted">© 2022 Company, Futbol Şirektim!</p>
+  </footer>
+
+
+    <script src="~/navbar/js/jquery-3.3.1.min.js"></script>
+    <script src="~/navbar/js/popper.min.js"></script>
+    <script src="~/navbar/js/bootstrap.min.js"></script>
+    <script src="~/navbar/js/jquery.sticky.js"></script>
+    <script src="~/navbar/js/main.js"></script>
+</body>
+</html>

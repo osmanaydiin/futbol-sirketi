@@ -1,0 +1,7 @@
+﻿@{
+    ViewData["Title"] = "Teknik Direktör Detay";
+    Layout = "~/Views/Shared/_SayfaLayout.cshtml";
+}
+
+
+@await Component.InvokeAsync("TeknikDirektorDetay", new {id=ViewBag.Id});

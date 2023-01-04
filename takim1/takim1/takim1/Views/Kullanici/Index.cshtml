@@ -1,0 +1,48 @@
+﻿@using X.PagedList;
+@using X.PagedList.Mvc;
+@using X.PagedList.Mvc.Core;
+
+@model IPagedList<takim1.Models.Kullanici>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h2 key=1>Kullanıcılar</h2>
+<br />
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Id</th>
+            <th scope="col"><span key=8>Adı</span></th>
+            <th scope="col"><span key=9>Soyadı</span></th>
+            <th scope="col"><span key=30>Mail</span></th>
+            <th scope="col"><span key=31>Şifre</span></th>
+            <th scope="col"><span key=32>Rol</span></th>
+            <th scope="col"></th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var m in Model)
+        {
+            <tr>
+                <th scope="row"></th>
+                <td>@m.KullaniciId</td>
+                <td>@m.KullaniciAdi</td>
+                <td>@m.KullaniciSoyadi</td>
+                <td>@m.KullaniciMail</td>
+                <td>@m.KullaniciSifre</td>
+                <td>@m.KullaniciRol</td>
+                <td> <a href="/Kullanici/KullaniciGet/@m.KullaniciId"><button key=15 class="btn btnGuncelle">Guncelle</button> </td>
+                <td> <a href="/Kullanici/KullaniciSil/@m.KullaniciId"><button key=16 class="btn btnSil">Sil</button> </a> </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@Html.PagedListPager((IPagedList)Model,page => Url.Action("Index",new {page}))
+<div class="ekle">
+    <a asp-action="KullaniciEkle" asp-controller="Kullanici"><button key=28 class="btn btnEkle">Kullanici Ekle</button> </a>
+</div>

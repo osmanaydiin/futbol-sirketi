@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Takım Bilgi";
+    Layout = "~/Views/Shared/_SayfaLayout.cshtml";
+}
+@*takım kartı gorunecek*@
+<div>
+    @await Component.InvokeAsync("TakimKarti", new {id=ViewBag.Id})
+</div>
+
+@*teknik direktor kartı gorunecek*@
+<div>
+    @await Component.InvokeAsync("TakimTeknikDirektorleri", new {id=@ViewBag.Id})
+</div>
+ 
+@*futbolcu kartları gorunecek*@
+<div>
+    @await Component.InvokeAsync("TakimFutbolculari", new {id=@ViewBag.Id})
+</div>
+
+
+
+
