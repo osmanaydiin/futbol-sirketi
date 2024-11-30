@@ -13,44 +13,36 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\images\\besiktas.jpg",
+      "PackagePath": "staticwebassets\\images\\besiktas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\images\\fenerbahce.jpg",
+      "PackagePath": "staticwebassets\\images\\fenerbahce.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\images\\gs.jpg",
+      "PackagePath": "staticwebassets\\images\\gs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\images\\sakarya.jpg",
+      "PackagePath": "staticwebassets\\images\\sakarya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\images\\sakarya1.jpg",
+      "PackagePath": "staticwebassets\\images\\sakarya1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\images\\sakarya2.jpg",
+      "PackagePath": "staticwebassets\\images\\sakarya2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\images\\superlig.jpg",
+      "PackagePath": "staticwebassets\\images\\superlig.jpg"
+    },
+    {
       "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\img\\arkaplan.jpg",
       "PackagePath": "staticwebassets\\img\\arkaplan.jpg"
-    },
-    {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\img\\besiktas.jpg",
-      "PackagePath": "staticwebassets\\img\\besiktas.jpg"
-    },
-    {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\img\\fenerbahce.jpg",
-      "PackagePath": "staticwebassets\\img\\fenerbahce.jpg"
-    },
-    {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\img\\gs.jpg",
-      "PackagePath": "staticwebassets\\img\\gs.jpg"
-    },
-    {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\img\\leftarrow.jfif",
-      "PackagePath": "staticwebassets\\img\\leftarrow.jfif"
-    },
-    {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\img\\rightArrow.jfif",
-      "PackagePath": "staticwebassets\\img\\rightArrow.jfif"
-    },
-    {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\img\\sakarya.jpg",
-      "PackagePath": "staticwebassets\\img\\sakarya.jpg"
-    },
-    {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\img\\sakarya1.jpg",
-      "PackagePath": "staticwebassets\\img\\sakarya1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\img\\sakarya2.jpg",
-      "PackagePath": "staticwebassets\\img\\sakarya2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\img\\superlig.jpg",
-      "PackagePath": "staticwebassets\\img\\superlig.jpg"
     },
     {
       "Id": "C:\\Users\\crazy\\Desktop\\osman\\takim1\\takim1\\wwwroot\\js\\site.js",

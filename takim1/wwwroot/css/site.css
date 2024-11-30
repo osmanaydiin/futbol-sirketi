@@ -99,6 +99,14 @@ body {
     color: white;
 }
 .ana-takim-karti {
+/*  position: relative;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: bottom;
+    background-image: url("../img/arkaplan.jpg");*/
     margin-top:150px;
     width:80%;
     margin-right:auto;
@@ -119,9 +127,6 @@ body {
     font-size:18px;
     padding-top:10px;
     padding-bottom:10px;
-}
-.takim-karti:hover{
-    border-color:darkgreen;
 }
 .takim-kart-row {
     display: flex;

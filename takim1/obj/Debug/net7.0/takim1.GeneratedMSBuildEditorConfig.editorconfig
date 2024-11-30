@@ -32,10 +32,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hU2F5ZmFcQ29tcG9uZW50c1xUYWtpbUthcnRpXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crazy/Desktop/osman/takim1/takim1/Views/AnaSayfa/Components/TakimlariGor/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hU2F5ZmFcQ29tcG9uZW50c1xUYWtpbWxhcmlHb3JcRGVmYXVsdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/crazy/Desktop/osman/takim1/takim1/Views/AnaSayfa/Components/TakimListele/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hU2F5ZmFcQ29tcG9uZW50c1xUYWtpbUxpc3RlbGVcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -66,10 +62,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/crazy/Desktop/osman/takim1/takim1/Views/AnaSayfa/TakimBilgi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hU2F5ZmFcVGFraW1CaWxnaS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/crazy/Desktop/osman/takim1/takim1/Views/AnaSayfa/Takimlar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hU2F5ZmFcVGFraW1sYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/crazy/Desktop/osman/takim1/takim1/Views/AnaSayfa/TeknikDirektorDetay.cshtml]
